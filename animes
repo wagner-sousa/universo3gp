@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<link href="../../../../favicon.ico" rel="icon">
+
+	<title>Universo 3gp</title>
+
+	<!-- Bootstrap core CSS -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<!-- Carousel -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+	<!-- Font -->
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+	<!-- Custom styles for this template -->
+	<link href="css/style.min.css" rel="stylesheet">
+
+
+	<!-- javascript -->
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+	</head>
+
+	<body>
+
+		<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+			<a class="navbar-brand" href="#">Universo 3GP</a>
+			<button class="navbar-toggler" aria-expanded="false" aria-controls="navbarCollapse" aria-label="Toggle navigation" type="button" data-target="#navbarCollapse" data-toggle="collapse">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarCollapse">
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item active">
+						<a class="nav-link" href="#">Filmes <span class="sr-only">(current)</span></a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Séries</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Animes</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Desenhos</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Termos</a>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="dropdown08" aria-expanded="false" aria-haspopup="true" href="https://example.com" data-toggle="dropdown">Contato</a>
+						<div class="dropdown-menu" aria-labelledby="dropdown08">
+							<a class="dropdown-item" href="#">Reportar Erros</a>
+							<a class="dropdown-item" href="#">F.A.Q.</a>
+							<a class="dropdown-item" href="#">Parcerias</a>
+							<a class="dropdown-item" href="#">Pedidos</a>
+						</div>
+					</li>
+				</ul>
+				<form class="form-inline mt-2 mt-md-0">
+					<input class="form-control mr-sm-2 w-70 form-control-sm" aria-label="Search" type="text" placeholder="Search">
+					<button class="btn btn-outline-primary my-2 my-sm-0 align-right btn-sm" type="submit">Search</button>
+				</form>
+			</div>
+		</nav>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-9">
+					<div class="container">
+						<div class="row">
+							<div class="container small text-white text-justify">
+								<h5 class="text-center">Animes</h5>
+							</div>
+							<div class="container">
+								<div class="row small text-white text-justify justify-content-center mb-3">
+									<div class="alert bg-dark m-0 w-100 px-0 row">
+										<div class="col-12 col-md-auto">
+											<i class="fa fa-check text-success" aria-hidden="true"></i>&nbsp;&nbsp;Animes totalmente atualizados
+										</div>
+										<div class="col-12 col-md-auto">
+											<i class="fa fa-times text-danger" aria-hidden="true"></i>&nbsp;&nbsp;Animes OFF e/ou desatualizado. Aguarde atualização.
+										</div>
+										<div class="col-12 col-md-auto">
+											<i class="fa fa-refresh text-info" aria-hidden="true"></i>&nbsp;&nbsp;Anime em processo de atualização.
+										</div>
+									</div>
+								</div>
+								<div class="container mb-3 text-center">
+									<button class="btn btn-secondary btn-sm btn-filter badge active btn-danger disabled" data-target="all">Todos</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="number">#</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="a">A</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="b">B</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="c">C</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="d">D</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="e">E</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="f">F</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="g">G</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="h">H</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="i">I</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="j">J</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="k">K</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="l">L</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="m">M</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="n">N</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="o">O</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="p">P</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="q">Q</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="r">R</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="s">S</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="t">T</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="u">U</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="v">V</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="w">W</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="x">X</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="y">Y</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="z">Z</button>
+								</div>
+
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="a">
+									<div class="card-header p-1 text-white">A</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="http://universo3gp.org/animes/site_974.html" class="btn btn-sm btn-secondary m-1">Absolute Duo&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_663.html" class="btn btn-sm btn-secondary m-1">Accel World&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2029.html" class="btn btn-sm btn-secondary m-1">Afro Samurai</a>
+												<a href="http://universo3gp.org/animes/site_2048.html" class="btn btn-sm btn-secondary m-1">Aki-Sora</a> <div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_2493.html" class="btn btn-sm btn-secondary m-1"> Akame Ga Kill!&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="/animes/site_2095.html" class="btn btn-sm btn-secondary m-1">Alice To Zouroku&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="/animes/site_493.html" class="btn btn-sm btn-secondary m-1">Another&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="/animes/site_905.html" class="btn btn-sm btn-secondary m-1">Ao no Exorcist</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_884.html" class="btn btn-sm btn-secondary m-1">Arslan Senki</a><div class="linha2"></div>
+												<a href="/animes/site_2380.html" class="btn btn-sm btn-secondary m-1">Ajin - Semi Humano</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="b">
+									<div class="card-header p-1 text-white">B</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="http://universo3gp.org/animes/site_2512.html" class="btn btn-sm btn-secondary m-1"> B: The Beginning </a>
+												<a href="http://universo3gp.org/animes/site_41.html" class="btn btn-sm btn-secondary m-1"> Back Street Girls: Gokudolls&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2491.html" class="btn btn-sm btn-secondary m-1"> Basilisk Ouka Ninpouchou&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2505.html" class="btn btn-sm btn-secondary m-1"> Beatless </a>
+												<a href="/animes/site_582.html" class="btn btn-sm btn-secondary m-1">Berserk&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="/animes/site_46.html" class="btn btn-sm btn-secondary m-1">Berserk (2016)&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_1338.html" class="btn btn-sm btn-secondary m-1">Beyblade</a><div class="linha2"></div>
+												<a href="/animes/site_73.html" class="btn btn-sm btn-secondary m-1">Black Clover (Dublado)&nbsp;&nbsp;<i class="fa fa-refresh text-info" aria-hidden="true"></i></a>
+												<a href="/animes/site_2495.html" class="btn btn-sm btn-secondary m-1">Black Clover (Legendado)&nbsp;&nbsp;<i class="fa fa-refresh text-info" aria-hidden="true"></i></a>
+												<a href="/animes/site_55.html" class="btn btn-sm btn-secondary m-1">Bleach</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_267.html" class="btn btn-sm btn-secondary m-1">Blood+</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_366.html" class="btn btn-sm btn-secondary m-1">Blue Dragon</a>
+												<a href="http://universo3gp.org/animes/site_1365.html" class="btn btn-sm btn-secondary m-1">Boku no Hero Academia</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_2100.html" class="btn btn-sm btn-secondary m-1">Boruto: Naruto Next Generations&nbsp;&nbsp;<i class="fa fa-refresh text-info" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2379.html" class="btn btn-sm btn-secondary m-1">Brotherhood: Final
+													Fantasy XV </a>
+												<a href="/animes/site_2111.html" class="btn btn-sm btn-secondary m-1">Busou Shoujo Machiavellianism&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="/animes/brave-10.html" class="btn btn-sm btn-secondary m-1">Brave 10 </a><div class="linha2"></div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="c">
+									<div class="card-header p-1 text-white">C</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="/animes/caligula.html" class="btn btn-sm btn-secondary m-1">Caligula&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="/animes/site_5.html" class="btn btn-sm btn-secondary m-1"> Captain Tsubasa (2018)&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="/animes/site_2266.html" class="btn btn-sm btn-secondary m-1">Castlevania</a>
+												<a href="http://universo3gp.org/animes/site_1090.html" class="btn btn-sm btn-secondary m-1">Charlotte&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2507.html" class="btn btn-sm btn-secondary m-1">Citrus </a>
+												<a href="/animes/site_2117.html" class="btn btn-sm btn-secondary m-1">Clockwork Planet&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_1008.html" class="btn btn-sm btn-secondary m-1">Comet Lucifer&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_578.html" class="btn btn-sm btn-secondary m-1">Code: Breaker&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_7.html" class="btn btn-sm btn-secondary m-1"> Code Geass&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="d">
+									<div class="card-header p-1 text-white">D</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="animes/site_2497.html" class="btn btn-sm btn-secondary m-1">Dame X Prince Anime Caravan </a>
+												<a href="animes/site_2508.html" class="btn btn-sm btn-secondary m-1"> Darling in the FranXX&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="animes/site_29.html" class="btn btn-sm btn-secondary m-1">Death Note</a><div class="linha2"></div>
+												<a href="animes/site_2500.html" class="btn btn-sm btn-secondary m-1">Death March Kara Hajimaru Isekai Kyousoukyoku </a><div class="linha2"></div>
+												<a href="animes/site_1304.html" class="btn btn-sm btn-secondary m-1">Death Parade&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="animes/site_259.html" class="btn btn-sm btn-secondary m-1">Devil May Cry</a><div class="linha2"></div>
+												<a href="animes/site_126.html" class="btn btn-sm btn-secondary m-1">Digimon</a><div class="linha2"></div>
+												<a href="animes/site_1058.html" class="btn btn-sm btn-secondary m-1">Digimon Adventure
+													Tri</a>
+												<a href="/animes/dorei-ku-the-animation.html" class="btn btn-sm btn-secondary m-1">Dorei-ku The Animation&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_115.html" class="btn btn-sm btn-secondary m-1">Dragon Ball</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_252.html" class="btn btn-sm btn-secondary m-1">Dragon Ball Z</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_1471.html" class="btn btn-sm btn-secondary m-1">Dragon Ball GT</a>
+												<a href="http://universo3gp.org/animes/site_24.html" class="btn btn-sm btn-secondary m-1"> Dragon Ball Heroes</a>
+												<a href="http://universo3gp.org/animes/site_758.html" class="btn btn-sm btn-secondary m-1">Dragon Ball Kai</a>
+												<a href="http://universo3gp.org/animes/site_2313.html" class="btn btn-sm btn-secondary m-1">Dragon Ball Super (Dublado)</a>
+												<a href="http://universo3gp.org/animes/site_911.html" class="btn btn-sm btn-secondary m-1">Dragon Ball Super (Legendado)</a><div class="linha2"></div>
+												<a href="/animes/site_990.html" class="btn btn-sm btn-secondary m-1">Dramatical Murder&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/drifters.html" class="btn btn-sm btn-secondary m-1">Drifters</a><div class="linha2"></div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="e">
+									<div class="card-header p-0">
+										<div class="card-header p-1 text-white">E</div>
+									</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="f">
+									<div class="card-header p-0">
+										<div class="card-header p-1 text-white">F</div>
+									</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="http://universo3gp.org/animes/site_164.html" class="btn btn-sm btn-secondary m-1 btn-option">Fairy Tail</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_1183.html" class="btn btn-sm btn-secondary m-1 btn-option">Fairy Tail Zero</a><div class="linha2"></div> <a href="http://universo3gp.org/animes/site_2499.html" class="btn btn-sm btn-secondary m-1 btn-option">Fairy Tale Girls </a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_2513.html" class="btn btn-sm btn-secondary m-1 btn-option"> Fate/Apocrypha </a>
+												<a href="/animes/fate-extra-last-encore.html" class="btn btn-sm btn-secondary m-1 btn-option">Fate/Extra Last Encore (Dublado)&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_770.html" class="btn btn-sm btn-secondary m-1 btn-option">Fate/Stay Night&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2106.html" class="btn btn-sm btn-secondary m-1 btn-option">Frame Arms Girl</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/firexfire.html" class="btn btn-sm btn-secondary m-1 btn-option">Fire X Fire</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_112.html" class="btn btn-sm btn-secondary m-1 btn-option">Fullmetal Alchemist</a><div class="linha2"></div>
+												<a href="/animes/site_1472.html" class="btn btn-sm btn-secondary m-1 btn-option">Fullmetal Alchemist: Brotherhood&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="g">
+									<div class="card-header p-1 text-white">G</div>
+									<div class="card-body py-1">                                                       
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="http://universo3gp.org/animes/site_2498.html" class="btn btn-sm btn-secondary m-1 btn-option">Gakuen Babysitters </a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_1330.html" class="btn btn-sm btn-secondary m-1 btn-option">Gate:Jieitai Kanochi nite, Kaku Tatakaeri&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_513.html" class="btn btn-sm btn-secondary m-1 btn-option">Gantz</a><div class="linha2"></div>
+												<a href="/animes/site_2416.html" class="btn btn-sm btn-secondary m-1 btn-option">God Eater&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="/animes/site_2502.html" class="btn btn-sm btn-secondary m-1 btn-option"> Grancrest Senki&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="/animes/site_2096.html" class="btn btn-sm btn-secondary m-1 btn-option">Gin No Guardian</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/ginga-eiyuu-densetsu-die-neue-these-kaikou.html" class="btn btn-sm btn-secondary m-1 btn-option">Ginga Eiyuu Densetsu Die Neue These - Kaikou</a><div class="linha2"></div>
+												<a href="/animes/site_59.html" class="btn btn-sm btn-secondary m-1 btn-option">Gintama&nbsp;&nbsp;<i class="fa fa-refresh text-info" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2456.html" class="btn btn-sm btn-secondary m-1 btn-option">Guilty Crown</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_788.html" class="btn btn-sm btn-secondary m-1 btn-option">Gungrave</a></div><div class="linha2"></div>
+
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="h">
+									<div class="card-header p-1 text-white">H</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="http://universo3gp.org/animes/site_1012.html" class="btn btn-sm btn-secondary m-1 btn-option">Haikyuu!! Second Season</a>
+												<a href="animes/site_2281.html" class="btn btn-sm btn-secondary m-1 btn-option">Hajimete No Gal&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_490.html" class="btn btn-sm btn-secondary m-1 btn-option">Hamatora: The Animation&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_36.html" class="btn btn-sm btn-secondary m-1 btn-option"> Harukana Receive&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_1474.html" class="btn btn-sm btn-secondary m-1 btn-option">Hellsing&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_269.html" class="btn btn-sm btn-secondary m-1 btn-option">High School DxD&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_837.html" class="btn btn-sm btn-secondary m-1 btn-option">High School DxD BorN&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_317.html" class="btn btn-sm btn-secondary m-1 btn-option">High School DxD New&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2523.html" class="btn btn-sm btn-secondary m-1 btn-option"> High School DxD Hero&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="/animes/site_270.html" class="btn btn-sm btn-secondary m-1 btn-option">Highschool of the Dead&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="/animes/site_2120.html" class="btn btn-sm btn-secondary m-1 btn-option">Hinako Note&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="/animes/site_34.html" class="btn btn-sm btn-secondary m-1 btn-option">Hitori no Shita: The Outcast&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/hundred.html" class="btn btn-sm btn-secondary m-1 btn-option">Hundred</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_492.html" class="btn btn-sm btn-secondary m-1 btn-option">Hunter x Hunter (Remake)</a><div class="linha2"></div>
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="i">
+									<div class="card-header p-1 text-white">I</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="http://universo3gp.org/animes/site_2520.html" class="btn btn-sm btn-secondary m-1 btn-option">Inazuma Eleven: Ares No Tenbin </a>
+												<a href="/animes/site_30.html" class="btn btn-sm btn-secondary m-1 btn-option"> Isekai Maou To Shoukan Shoujo No Dorei Majutsu&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2503.html" class="btn btn-sm btn-secondary m-1 btn-option"> Ito Junji Collection</a><div class="linha2"></div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="j">
+									<div class="card-header p-1 text-white">J</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="k">
+									<div class="card-header p-1 text-white">K</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="/animes/site_1009.html" class="btn btn-sm btn-secondary m-1 btn-option">K: Return Of Kings</a>
+												<a href="/animes/site_2515.html" class="btn btn-sm btn-secondary m-1 btn-option"> Kakegurui </a>
+												<a href="http://universo3gp.org/animes/site_885.html" class="btn btn-sm btn-secondary m-1 btn-option">Kekkai Sensen&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2506.html" class="btn btn-sm btn-secondary m-1 btn-option"> Killing Bites </a>
+												<a href="http://universo3gp.org/animes/site_2485.html" class="btn btn-sm btn-secondary m-1 btn-option">Kono Subarashii Sekai Ni Shukufuku Wo!&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="l">
+									<div class="card-header p-1 text-white">L</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="/animes/site_83.html" class="btn btn-sm btn-secondary m-1 btn-option"> Lost Song&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_1254.html" class="btn btn-sm btn-secondary m-1 btn-option">Love Live School Idol Project</a>
+												<a href="/animes/site_1151.html" class="btn btn-sm btn-secondary m-1 btn-option">Luck & Logic&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="m">
+									<div class="card-header p-1 text-white">M</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="animes/site_87.html" class="btn btn-sm btn-secondary m-1 btn-option"> Mahouka Koukou No Rettousei&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/masou-gakuen-hxh.html" class="btn btn-sm btn-secondary m-1 btn-option">Masou Gakuen HxH</a>
+												<a href="http://universo3gp.org/animes/site_887.html" class="btn btn-sm btn-secondary m-1 btn-option">Mirai Nikki&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/mi-yu-xing-zhe.html" class="btn btn-sm btn-secondary m-1 btn-option">Mi Yu Xing Zhe / Uncharted Walker </a>
+												<a href="/animes/megalo-box.html" class="btn btn-sm btn-secondary m-1 btn-option">Megalo Box&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="n">
+									<div class="card-header p-1 text-white">N</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="http://universo3gp.org/animes/nanatsu-no-bitoku.html" class="btn btn-sm btn-secondary m-1 btn-option">Nanatsu no Bitoku</a>
+												<a href="http://universo3gp.org/animes/site_1032.html" class="btn btn-sm btn-secondary m-1 btn-option">Nanatsu no Taizai (Dublado)</a>
+												<a href="http://universo3gp.org/animes/site_2487.html" class="btn btn-sm btn-secondary m-1 btn-option">Nanatsu no Taizai (Legendado)</a>
+												<a href="http://universo3gp.org/animes/site_57.html" class="btn btn-sm btn-secondary m-1 btn-option">Naruto</a>
+												<a href="http://universo3gp.org/animes/site_203.html" class="btn btn-sm btn-secondary m-1 btn-option">Naruto SD: Rock Lee</a>
+												<a href="http://universo3gp.org/animes/site_8.html" class="btn btn-sm btn-secondary m-1 btn-option">Naruto Shippuden (Legendado)</a>
+												<a href="http://universo3gp.org/animes/site_768.html" class="btn btn-sm btn-secondary m-1 btn-option">Naruto Shippuden (Dublado)</a>
+												<a href="http://universo3gp.org/animes/site_1525.html" class="btn btn-sm btn-secondary m-1 btn-option">New Game!</a>
+												<a href="http://universo3gp.org/animes/site_1094.html" class="btn btn-sm btn-secondary m-1 btn-option">Noragami&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_1093.html" class="btn btn-sm btn-secondary m-1 btn-option">Noragami Aragoto&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="o">
+									<div class="card-header p-1 text-white">O</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="http://universo3gp.org/animes/site_67.html" class="btn btn-sm btn-secondary m-1 btn-option">One Piece&nbsp;&nbsp;<i class="fa fa-refresh text-info" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_1076.html" class="btn btn-sm btn-secondary m-1 btn-option">One Punch Man</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_101.html" class="btn btn-sm btn-secondary m-1 btn-option">Os Cavaleiros do Zodiaco</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_840.html" class="btn btn-sm btn-secondary m-1 btn-option">Os Cavaleiros do Zodiaco: Alma de Ouro</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_505.html" class="btn btn-sm btn-secondary m-1 btn-option">Os Cavaleiros do Zodiaco: The Lost Canvas</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_2105.html" class="btn btn-sm btn-secondary m-1 btn-option">Oushitsu Kyoushi Haine</a> <div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_54.html" class="btn btn-sm btn-secondary m-1 btn-option">Overlord&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2494.html" class="btn btn-sm btn-secondary m-1 btn-option">Overlord ll&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_43.html" class="btn btn-sm btn-secondary m-1 btn-option">Overlord lll&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="p">
+									<div class="card-header p-1 text-white">P</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="http://universo3gp.org/animes/site_1133.html" class="btn btn-sm btn-secondary m-1 btn-option">Phantasy Star Online 2&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_262.html" class="btn btn-sm btn-secondary m-1 btn-option">Pokemon</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_1519.html" class="btn btn-sm btn-secondary m-1 btn-option">Pokemon XY</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_1043.html" class="btn btn-sm btn-secondary m-1 btn-option">Pokemo XY&Z</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_2045.html" class="btn btn-sm btn-secondary m-1 btn-option">Pokemon Sun & Moon</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_1011.html" class="btn btn-sm btn-secondary m-1 btn-option">Prison School</a><div class="linha2"></div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="q">
+									<div class="card-header p-1 text-white">Q</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="http://universo3gp.org/animes/site_1172.html" class="btn btn-sm btn-secondary m-1 btn-option">Queen's Blade: Grimoire</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="r">
+									<div class="card-header p-1 text-white">R</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="http://universo3gp.org/animes/site_2124.html" class="btn btn-sm btn-secondary m-1 btn-option">Re:Creators</a>
+												<a href="http://universo3gp.org/animes/site_26.html" class="btn btn-sm btn-secondary m-1 btn-option"> Re: Zero Kara Hajimeru Isekai Seikatsu (Legendado)&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_81.html" class="btn btn-sm btn-secondary m-1 btn-option"> Re: Zero Kara Hajimeru Isekai Seikatsu (Dublado)&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2118.html" class="btn btn-sm btn-secondary m-1 btn-option">Renai Boukun</a>
+												<a href="http://universo3gp.org/animes/site_988.html" class="btn btn-sm btn-secondary m-1 btn-option">Rokka No Yuusha (Dublado)&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2107.html" class="btn btn-sm btn-secondary m-1 btn-option">Rokudenashi Majutsu Koushi To Kinki Kyouten&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2492.html" class="btn btn-sm btn-secondary m-1 btn-option">Ryuuou No Oshigoto!&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="s">
+									<div class="card-header p-1 text-white">S</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">	
+												<a href="http://universo3gp.org/animes/site_1358.html" class="btn btn-sm btn-secondary m-1 btn-option">Saijaku Muhai no Bahamut</a>
+												<a href="http://universo3gp.org/animes/site_2509.html" class="btn btn-sm btn-secondary m-1 btn-option">Sakura Card Captors: Clear Card-hen&nbsp;&nbsp;<i class="fa fa-refresh text-info" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2110.html" class="btn btn-sm btn-secondary m-1 btn-option">Sakura Quest</a>
+												<a href="http://universo3gp.org/animes/site_2112.html" class="btn btn-sm btn-secondary m-1 btn-option">Sakurada Reset</a>
+												<a href="http://universo3gp.org/animes/site_35.html" class="btn btn-sm btn-secondary m-1 btn-option"> Satsuriku No Tenshi&nbsp;&nbsp;<i class="fa fa-refresh text-info" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_1339.html" class="btn btn-sm btn-secondary m-1 btn-option">Sayonara Zetsubou Sensei</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_4.html" class="btn btn-sm btn-secondary m-1 btn-option"> Schwarzesmarken (Dublado)&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_1475.html" class="btn btn-sm btn-secondary m-1 btn-option">Seikon no Qwaser</a>
+												<a href="http://universo3gp.org/animes/site_665.html" class="btn btn-sm btn-secondary m-1 btn-option">Shakugan no Shana</a>
+												<a href="http://universo3gp.org/animes/site_523.html" class="btn btn-sm btn-secondary m-1 btn-option">Shaman King</a>
+												<a href="http://universo3gp.org/animes/site_25.html" class="btn btn-sm btn-secondary m-1 btn-option"> Shichisei no Subaru </a>
+												<a href="http://universo3gp.org/animes/site_2123.html" class="btn btn-sm btn-secondary m-1 btn-option">Shingeki no Bahamut: Virgin Soul</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_260.html" class="btn btn-sm btn-secondary m-1 btn-option">Shingeki no Kyojin&nbsp;&nbsp;<span class="small">(Attack on Titan)</span></a>
+												<a href="http://universo3gp.org/animes/shinmai-maou-no-testament.html" class="btn btn-sm btn-secondary m-1 btn-option">Shinmai Maou No Testament&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_45.html" class="btn btn-sm btn-secondary m-1 btn-option"> Shinmai Maou no Testament Burst&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_1.html" class="btn btn-sm btn-secondary m-1 btn-option"> Steins Gate&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_1493.html" class="btn btn-sm btn-secondary m-1 btn-option">Strike the Blood</a>
+												<a href="http://universo3gp.org/animes/soul-buster.html" class="btn btn-sm btn-secondary m-1 btn-option">Soul Buster</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_266.html" class="btn btn-sm btn-secondary m-1 btn-option">Supernatural - The Animation</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_146.html" class="btn btn-sm btn-secondary m-1 btn-option">Super Onze&nbsp;&nbsp;<span class="small">(Inazuma Eleven)</span></a>
+												<a href="http://universo3gp.org/animes/site_583.html" class="btn btn-sm btn-secondary m-1 btn-option">Sword Art Online</a>
+												<a href="http://universo3gp.org/animes/site_608.html" class="btn btn-sm btn-secondary m-1 btn-option">Sword Art Online II&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="/animes/site_2519.html" class="btn btn-sm btn-secondary m-1 btn-option"> Sword Art Online Alternative: Gun Gale Online&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="t">
+									<div class="card-header p-1 text-white">T</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="http://universo3gp.org/animes/site_2481.html" class="btn btn-sm btn-secondary m-1 btn-option">Tasogare Otome x Amnesia&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_495.html" class="btn btn-sm btn-secondary m-1 btn-option">Tenjou Tenge</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_1300.html" class="btn btn-sm btn-secondary m-1 btn-option">Terra Formars</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_652.html" class="btn btn-sm btn-secondary m-1 btn-option">To Aru Kagaku no Railgun</a>
+												<a href="http://universo3gp.org/animes/site_82.html" class="btn btn-sm btn-secondary m-1 btn-option"> To Aru Majutsu No Index&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2483.html" class="btn btn-sm btn-secondary m-1 btn-option">To Love-ru</a>
+												<a href="http://universo3gp.org/animes/site_2504.html" class="btn btn-sm btn-secondary m-1 btn-option"> Toji no Miko&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_620.html" class="btn btn-sm btn-secondary m-1 btn-option">Tokyo Ghoul</a>
+												<a href="http://universo3gp.org/animes/site_771.html" class="btn btn-sm btn-secondary m-1 btn-option"> Tokyo Ghoul √A </a>
+												<a href="http://universo3gp.org/animes/site_2516.html" class="btn btn-sm btn-secondary m-1 btn-option"> Tokyo Ghoul Re&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_42.html" class="btn btn-sm btn-secondary m-1 btn-option"> Trickster: Edogawa Ranpo&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_2103.html" class="btn btn-sm btn-secondary m-1 btn-option">Tsugumomo</a>
+												<a href="http://universo3gp.org/animes/site_2116.html" class="btn btn-sm btn-secondary m-1 btn-option">Tsuki Ga Kirei</a>
+												<a href="http://universo3gp.org/animes/site_2121.html" class="btn btn-sm btn-secondary m-1 btn-option">Twin Angel Break</a>
+												<a href="http://universo3gp.org/animes/triage-x.html" class="btn btn-sm btn-secondary m-1 btn-option">Triage X</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="u">
+									<div class="card-header p-1 text-white">U</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+
+												<a href="http://universo3gp.org/animes/site_1311.html" class="btn btn-sm btn-secondary m-1 btn-option">Ushio To Tora (TV)</a>
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="v">
+									<div class="card-header p-1 text-white">V</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">				
+												<a href="/animes/site_1015.html" class="btn btn-sm btn-secondary m-1 btn-option">Valkyrie Drive</a>
+												<a href="http://universo3gp.org/animes/site_2501.html" class="btn btn-sm btn-secondary m-1 btn-option">Violet Evergarden&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="w">
+									<div class="card-header p-1 text-white">W</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="http://universo3gp.org/animes/site_2099.html" class="btn btn-sm btn-secondary m-1 btn-option">Warau Salesman New</a>
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="x">
+									<div class="card-header p-1 text-white">X</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100"></div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="y">
+									<div class="card-header p-1 text-white">Y</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+
+												<a href="/animes/site_2348.html" class="btn btn-sm btn-secondary m-1 btn-option">Yosuga No Sora&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+
+												<a href="/animes/site_71.html" class="btn btn-sm btn-secondary m-1 btn-option"> Youjo Senki&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="http://universo3gp.org/animes/site_19.html" class="btn btn-sm btn-secondary m-1 btn-option">Yu-Gi-Oh!</a> <div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_2496.html" class="btn btn-sm btn-secondary m-1 btn-option">Yu-Gi-Oh! VRAINS </a> <div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_100.html" class="btn btn-sm btn-secondary m-1 btn-option">Yu Yu Hakusho</a><div class="linha2"></div></div>
+
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="z">
+									<div class="card-header p-1 text-white">Z</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="http://universo3gp.org/animes/site_980.html" class="btn btn-sm btn-secondary m-1 btn-option">Zankyou No Terror</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_161.html" class="btn btn-sm btn-secondary m-1 btn-option">Zatch Bell!</a>
+												<a href="http://universo3gp.org/animes/zetman.html" class="btn btn-sm btn-secondary m-1 btn-option">Zet Man</a><div class="linha2"></div>
+												<a href="http://universo3gp.org/animes/site_1351.html" class="btn btn-sm btn-secondary m-1 btn-option">Zetsuen no Tempest: The Civilization Blaster</a>
+												<a href="http://universo3gp.org/animes/site_1348.html" class="btn btn-sm btn-secondary m-1 btn-option">Zettai Karen Children: The Unlimited - Hyoubu Kyousuke</a>
+												<a href="http://universo3gp.org/animes/site_2490.html" class="btn btn-sm btn-secondary m-1 btn-option">Zoku Touken Ranbu Hanamaru </a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+<div class="col-md-3 ml-auto bg-dark">
+     <div class="container text-white my-4">
+          <div class="container">
+               <div class="row border-bottom border-white text-center">
+                    <small class="text-muted mx-auto">
+                         <p class="text-secondary">Desenvolvido por <a href="mailto:wagner.fernandes.sousa@outlook.com" class="text-white">Wagner Sousa</a>&nbsp;&nbsp;
+                              <a href="https://api.whatsapp.com/send?phone=5585991013648"><i class="fa fa-whatsapp text-success" aria-hidden="true"></i></a>
+                         </p>
+                    </small>
+               </div>
+          </div>
+     </div>
+     <div class="container text-white my-4">
+          <div class="container mb-2">
+               <div class="row border-bottom border-white pb-3">
+                    <div class="text-center col-12 small pb-2 text-white" role="alert">
+                         Participem dos nossos grupos no WhatsApp. São eles: <a href="https://chat.whatsapp.com/1b9PsPstXBG7yB49JCTpFY" target="_blank">Universo 3GP</a>, <a href="https://chat.whatsapp.com/3d6zuiilIDiI8mZxn2PztV" target="_blank">Universo NERD</a> e <a href="https://chat.whatsapp.com/53tNhDktocuLYbJNHBwsKp" target="_blank">Músicas Eletrônicas</a>. Aproveite, e entre também nos nossos grupos no Facebook, o <a href="https://facebook.com/groups/universo3gp" target="_blank">Universo 3GP</a> e <a href="https://facebook.com/groups/872446359625413" target="_blank">Universo NERD</a>. Não esqueça de curtir nossa <a href="https://facebook.com/universo3gp" target="_blank">Página</a>.
+                    </div>         
+               </div>
+          </div>
+     </div>
+     <div class="container text-white my-4">
+          <div class="container mb-2">
+               <div class="row border-bottom border-white pb-3">
+                    <p class="h6 text-center col-12 small pb-2">Classificação Indicativa de Filmes</p>
+                    <div class="col-12 ">
+                         <div class="row justify-content-md-around">
+
+                              <div class="col-4 col-md-12 col-lg-6">
+                                   <a href="filmes.php#c-livre" class="badge badge-pill badge-success w-100" onclick="location.reload();">Livre</a>
+                              </div>
+                              <div class="col-4 col-md-12 col-lg-6">
+                                   <a href="filmes.php#c-10" class="badge badge-pill badge-info w-100" onclick="location.reload();">10 anos</a>
+                              </div>
+                              <div class="col-4 col-md-12 col-lg-6">
+                                   <a href="filmes.php#c-12" class="badge badge-pill badge-warning w-100" onclick="location.reload();">12 anos</a>
+                              </div>
+                              <div class="col-4 col-md-12 col-lg-6">
+                                   <a href="filmes.php#c-14" class="badge badge-pill badge-orange w-100" onclick="location.reload();">14 anos</a>
+                              </div>
+                              <div class="col-4 col-md-12 col-lg-6">
+                                   <a href="filmes.php#c-16" class="badge badge-pill badge-danger w-100" onclick="location.reload();">16 anos</a>
+                              </div>
+                              <div class="col-4 col-md-12 col-lg-6">
+                                   <a href="filmes.php#c-18" class="badge badge-pill badge-secondary w-100" onclick="location.reload();">18 anos</a>
+                              </div>
+                         </div>
+                    </div>
+               </div>
+
+          </div>
+     </div>
+     <div class="container text-white my-4">
+          <div class="container mb-2">
+               <div class="row border-bottom border-white pb-3">
+                    <p class="h6 text-center col-12 small pb-2">Parceiros Vip</p>
+                    <div class="col-12 ">
+                         <div class="row">
+                              <div class="list-group list-group-flush w-100 text-center bg-dark">
+                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+                                        <small class="font-weight-light">Universe Projects</small>
+                                   </a>
+                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+                                        <small class="font-weight-light">Turbo Server</small>
+                                   </a>
+                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+                                        <small class="font-weight-light">Tecno Premium</small>
+                                   </a>
+                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+                                        <small class="font-weight-light">AniMania</small>
+                                   </a>
+                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+                                        <small class="font-weight-light">Baixar Filmes Mega</small></a>
+                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+                                        <small class="font-weight-light">AnimesXD</small>
+                                   </a>
+                              </div>
+                         </div>
+                    </div>
+               </div>
+          </div>
+     </div>
+     <div class="container text-white my-4 text-center">
+
+          <div id="histats_counter"></div>
+          <script type="text/javascript">var _Hasync= _Hasync|| [];
+               _Hasync.push(['Histats.start', '1,3997907,4,10,200,40,00011101']);
+               _Hasync.push(['Histats.fasi', '1']);
+               _Hasync.push(['Histats.track_hits', '']);
+               _Hasync.push(['Histats.framed_page', '']);
+               (function() {
+                    var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+                    hs.src = ('//s10.histats.com/js15_as.js');
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+               })();</script>
+          <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3997907&101" alt="" border="0"></a></noscript>
+
+     </div>
+
+     <div class="container text-white my-4">
+		<div class="fb-comments" data-href="<?php echo "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]" ?>" data-numposts="30" data-colorscheme="dark" data-mobile="auto"></div>
+     </div>
+</div>
+			</div>
+		</div>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.2/owl.carousel.min.js"></script>
+
+		<script>
+			$(document).ready(function () {
+
+				if(window.location.hash) {
+					var hash = window.location.hash;
+					hash_class(hash);
+				}
+
+				function hash_class(hash_page) {
+
+					$('.list-search .card-body a').addClass('d-none');
+					$('#data-search').addClass('d-none');
+
+					switch(hash_page) {
+						case "#c-livre":
+							var $target = "c-livre";
+							var $indicativa = "Classificação Indicativa Livre";
+							break;
+						case "#c-10":
+							var $target = "c-10";
+							var $indicativa = "Classificação Indicativa 10 anos";
+							break;
+						case "#c-12":
+							var $target = "c-12";
+							var $indicativa = "Classificação Indicativa 12 anos";
+							break;
+						case "#c-14":
+							var $target = "c-14";
+							var $indicativa = "Classificação Indicativa 14 anos";
+							break;
+						case "#c-16":
+							var $target = "c-16";
+							var $indicativa = "Classificação Indicativa 16 anos";
+							break;
+						case "#c-18":
+							var $target = "c-18";
+							var $indicativa = "Classificação Indicativa 18 anos";
+							break;
+					}
+
+					$('.list-search .card-body a[data-status="' + $target + '"]').removeClass('d-none');
+					$('.search-query-sf').remove();
+					$('#c-indicativa').empty();
+					$('#c-indicativa').removeClass('d-none');
+					$('#c-indicativa').prepend($indicativa);
+					empty_card();
+				}
+
+				$('.btn-filter').on('click', function () {
+					var $target = $(this).data('target');
+					if ($target != 'all') {
+						$('.card').addClass('d-none');
+						$('.btn-filter').removeClass('active btn-danger disabled');
+						$(this).addClass('active btn-danger disabled');
+						$('#data-search').addClass('d-none');
+						$('.card[data-status="' + $target + '"]').fadeIn('slow').removeClass('d-none');
+					} else {
+						$('.btn-filter').removeClass('active btn-danger disabled');
+						$(this).addClass('active btn-danger disabled');
+						$('.card').fadeIn('slow').removeClass('d-none');
+						$('#data-search').addClass('d-none');
+					}
+				});
+
+				$('#system-search').keyup( function() {
+					var that = this;
+					// affect all table rows on in systems table
+					var tableBody = $('#push');
+					var tableRowsClass = $('.list-search .card-body a');
+					$('.search-sf').remove();
+
+					//$('.list-search').addClass('d-none');
+					//$('.list-search[data-status="' + x.charAt(0) + '"]').fadeIn('slow').removeClass('d-none');
+					var clone = [];
+					tableRowsClass.each( function(i, val) {
+
+						//Lower text for case insensitive
+						var rowText = $(val).text().toLowerCase();
+						var inputText = $(that).val().toLowerCase();
+						if(inputText != '')
+						{
+							$('.search-query-sf').remove();
+							$('#push').empty();
+							$('#push').removeClass('d-none');
+							tableBody.prepend('Pesquisando por: "' + $(that).val() + "'");
+						}
+						else
+						{												
+							$('.search-query-sf').remove();
+							$('#data-search').addClass('d-none');
+						}
+
+						if( rowText.indexOf( inputText ) == -1 )
+						{
+							//hide rows
+							tableRowsClass.eq(i).hide();
+
+						}
+						else
+						{
+							$('.search-sf').remove();
+							tableRowsClass.eq(i).show();
+							clone[clone.length] = tableRowsClass.eq(i).clone(); //tableRowsClass.eq(i).clone();
+
+						}
+					});
+
+					if($(that).val().toLowerCase() != '')
+					{
+						$('.list-search').addClass('d-none');
+						$('#filter').addClass('d-none');
+						$('#data-search').removeClass('d-none');
+						document.getElementById("search-results").innerHTML=""; 
+						$('#search-results').empty();
+						$('#search-results').append(clone);
+					}
+					else
+					{
+						$('.list-search').removeClass('d-none');
+						$('#filter').removeClass('d-none');
+						$('#filter-no').click();
+						$('#data-search').addClass('d-none');
+					}
+
+					//all tr elements are hidden
+					if(tableRowsClass.children(':visible').length == 0 && clone == '')
+					{
+						$('#push').removeClass('d-none');
+						$('#push').empty();
+						tableBody.append('Nenhum Resultado Encontrado');
+						$('#search-results').addClass('d-none');
+					}
+				});
+			});
+		</script>
+
+
+	</body></html>
