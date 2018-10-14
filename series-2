@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<link href="../../../../favicon.ico" rel="icon">
+
+	<title>Universo 3gp</title>
+
+	<!-- Bootstrap core CSS -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<!-- Carousel -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+	<!-- Font -->
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+	<!-- Custom styles for this template -->
+	<link href="css/style.min.css" rel="stylesheet">
+
+
+	<!-- javascript -->
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+	</head>
+
+	<body>
+
+		<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+			<a class="navbar-brand" href="#">Universo 3GP</a>
+			<button class="navbar-toggler" aria-expanded="false" aria-controls="navbarCollapse" aria-label="Toggle navigation" type="button" data-target="#navbarCollapse" data-toggle="collapse">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarCollapse">
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item active">
+						<a class="nav-link" href="#">Filmes <span class="sr-only">(current)</span></a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Séries</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Animes</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Desenhos</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Termos</a>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="dropdown08" aria-expanded="false" aria-haspopup="true" href="https://example.com" data-toggle="dropdown">Contato</a>
+						<div class="dropdown-menu" aria-labelledby="dropdown08">
+							<a class="dropdown-item" href="#">Reportar Erros</a>
+							<a class="dropdown-item" href="#">F.A.Q.</a>
+							<a class="dropdown-item" href="#">Parcerias</a>
+							<a class="dropdown-item" href="#">Pedidos</a>
+						</div>
+					</li>
+				</ul>
+				<form class="form-inline mt-2 mt-md-0">
+					<input class="form-control mr-sm-2 w-70 form-control-sm" aria-label="Search" type="text" placeholder="Search">
+					<button class="btn btn-outline-primary my-2 my-sm-0 align-right btn-sm" type="submit">Search</button>
+				</form>
+			</div>
+		</nav>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-9">
+					<div class="container">
+<div class="container multi-collapse"  data-status="support">
+								<div class="row small text-white text-justify justify-content-center mb-3">
+									<div class="alert bg-dark m-0 w-100 px-0 row">
+										<div class="col-12 col-md-auto">
+											<i class="fa fa-check text-success" aria-hidden="true"></i>&nbsp;&nbsp;Série totalmente ON e atualizada
+										</div>
+										<div class="col-12 col-md-auto">
+											<i class="fa fa-times text-danger" aria-hidden="true"></i>&nbsp;&nbsp;Série OFF e/ou desatualizada. Aguarde atualização.
+										</div>
+										<div class="col-12 col-md-auto">
+											<i class="fa fa-refresh text-info" aria-hidden="true"></i>&nbsp;&nbsp;Série em processo de atualização.
+										</div>
+									</div>
+								</div>
+
+								<div class="container mb-3 text-center">
+									<button class="btn btn-secondary btn-sm btn-filter badge active btn-danger disabled" data-target="all">Todos</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="number">#</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="a">A</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="b">B</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="c">C</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="d">D</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="e">E</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="f">F</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="g">G</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="h">H</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="i">I</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="j">J</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="k">K</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="l">L</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="m">M</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="n">N</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="o">O</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="p">P</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="q">Q</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="r">R</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="s">S</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="t">T</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="u">U</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="v">V</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="w">W</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="x">X</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="y">Y</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="z">Z</button>
+								</div>
+
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="number">
+									<div class="card-header p-1 text-white">#</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_38.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">9-1-1</a>
+												<a href="series/site_1005.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">12 Monkeys</a>
+												<a href="series/13-reasons-why.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">13 Reasons Why&nbsp;&nbsp;<span class="small">[Os 13 Porquês]</span>&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_110.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">24 Horas</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="a">
+									<div class="card-header p-1 text-white">A</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_882.html" class="btn btn-sm btn-secondary m-1" role="button">Agents of S.H.I.E.L.D.</a>
+												<a href="series/site_1066.html" class="btn btn-sm btn-secondary m-1" role="button">American Crime</a>
+												<a href="series/site_1177.html" class="btn btn-sm btn-secondary m-1" role="button">American Crime Story</a>
+												<a href="series/american-gods.html" class="btn btn-sm btn-secondary m-1" role="button">American Gods<span class="text-white small">&nbsp;&nbsp;[Deuses Americanos]</span>&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/american-horror-story.html" class="btn btn-sm btn-secondary m-1" role="button">American Horror Story<span class="text-white small">&nbsp;&nbsp;[Uma História de Horror Americana]</span>&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_25.html" class="btn btn-sm btn-secondary m-1" role="button">Anne&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_210.html" class="btn btn-sm btn-secondary m-1" role="button">Arrow<span class="text-white small"> [Arqueiro]</span></a>
+												<a href="series/site_1096.html" class="btn btn-sm btn-secondary m-1" role="button">Ash vs Evil Dead</a>
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="b">
+									<div class="card-header p-1 text-white">B</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_953.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Ballers</a>
+												<a href="series/band-of-brothers.html" class="btn  btn-sm btn-secondary m-1" role="button">Band of Brothers<span class="text-white small"> [Irmãos de Guerra]</span>&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>     
+												<a href="series/site_863.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Bates Motel</a>
+												<a href="series/site_1414.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Beauty and The Beast</a>
+												<a href="series/berlin-station.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Berlin Station</a>
+												<a href="series/site_783.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Better Call Saul</a>
+												<a href="series/site_1885.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Beyond&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_1373.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Bitten&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/black-lightning.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Black Lightning</a>
+												<a href="series/black-mirror.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Black Mirror&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_1157.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Black Sails&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_1517.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Blindspot</a>
+												<a href="series/breaking-bad.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Breaking Bad&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_1243.html" class="btn btn-sm btn-secondary m-1" role="button">Brooklyn Nine-Nine</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="c">
+									<div class="card-header p-1 text-white">C</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_74.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Chuck</a>
+												<a href="series/colony.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Colony&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_714.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Constantine</a>
+												<a href="series/site_1390.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Cosmos&nbsp;&nbsp;<i class="fa fa-times text-danger" aria-hidden="true"></i></a>
+												<a href="series/site_1383.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Cosmos: Uma Odisséia no Espaço-Tempo&nbsp;&nbsp;<i class="fa fa-times text-danger" aria-hidden="true"></i></a>
+												<a href="series/counterpart.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Counterpart</a>
+												<a href="series/site_2125.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">CSI: Las Vegas&nbsp;&nbsp;<span class="text-white small">[CSI: Investigação Criminal]</span></a><div class="linha2"></div>
+												<a href="series/site_1393.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">CSI: Cyber</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="d">
+									<div class="card-header p-1 text-white">D</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_1149.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Da Vinci's Demons</a>
+												<a href="series/daredevil.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Daredevil&nbsp;&nbsp;<span class="small">[Demolidor]</span>&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/dark.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Dark</a>
+												<a href="series/site_2612.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Deception</a>
+												<a href="series/site_1868.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Desventuras em Série</a>
+												<a href="series/site_312.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Dexter&nbsp;&nbsp;<i class="fa fa-times text-danger" aria-hidden="true"></i></a>
+												<a href="series/site_79.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Doctor Who</a>
+												<a href="series/dynasty.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Dynasty</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="e">
+									<div class="card-header p-0">
+										<div class="card-header p-1 text-white">E</div>
+									</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<a href="series/site_28.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Emerald City</a>
+													<a href="series/site_1048.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Empire</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="f">
+									<div class="card-header p-0">
+										<div class="card-header p-1 text-white">F</div>
+									</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_1061.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Faking It</a>
+												<a href="series/site_946.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Fear The Walking Dead</a>
+												<a href="series/final-space.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Final Space&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/future-man.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Future Man</a>
+												<a href="series/site_1120.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Friends</a>
+												<a href="series/site_431.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Fringe&nbsp;&nbsp;<span class="small">[Fronteiras]</span>&nbsp;&nbsp;<i class="fa fa-times text-danger" aria-hidden="true"></i></a>
+												<a href="series/site_1246.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Fuller House</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="g">
+									<div class="card-header p-1 text-white">G</div>
+									<div class="card-body py-1">                                                       
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/game-of-thrones.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Game of Thrones&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_2160.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Genius</a>
+												<a href="series/site_23.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Glee</a>
+												<a href="series/site_201.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Gossip Girl</a>
+												<a href="series/site_766.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Gotham</a>
+												<a href="series/site_1249.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Grey's Anatomy</a>
+												<a href="series/site_141.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Grimm</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="h">
+									<div class="card-header p-1 text-white">H</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_580.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Hannibal</a>
+												<a href="series/happy.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Happy!</a>
+												<a href="series/site_479.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Hawaii Five-0&nbsp;&nbsp;<i class="fa fa-times text-danger" aria-hidden="true"></i></a>
+												<a href="series/here-and-now.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Here and Now</a>
+												<a href="series/site_421.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Homeland&nbsp;&nbsp;<i class="fa fa-times text-danger" aria-hidden="true"></i></a>
+												<a href="series/site_497.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">House of Cards</a>
+												<a href="series/site_1503.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">How I Met Your Mother&nbsp;&nbsp;<span class="small">[Como Eu Conheci Sua Mãe]</span></a>
+												<a href="series/site_1033.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">How to Get Away with Murder&nbsp;&nbsp;<span class="small">[Como Defender um Assassino]</span></a>
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="i">
+									<div class="card-header p-1 text-white">I</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/into-the-badlands.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Into the Badlands&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_1036.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">iZombie</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="j">
+									<div class="card-header p-1 text-white">J</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_1056.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Jessica Jones</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="k">
+									<div class="card-header p-1 text-white">K</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_1488.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Killjoys&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/knightfall.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Knightfall</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="l">
+									<div class="card-header p-1 text-white">L</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/la-casa-de-papel.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">La Casa de Papel&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_1127.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Legends of Tomorrow &nbsp;&nbsp;<span class="small">[Lendas do Amanhã]</span></a>
+												<a href="series/legion.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Legion&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_2080.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Lethal Weapon </a>
+												<a href="series/site_30.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Life Sentence</a>
+												<a href="series/site_62.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Lost</a>
+												<a href="series/lucifer.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Lucifer&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/love.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Love</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="m">
+									<div class="card-header p-1 text-white">M</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/mcmafia.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">McMafia</a>
+												<a href="series/site_1478.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Marco Polo</a>
+												<a href="series/site_975.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Marvel's Agent Carter </a>
+												<a href="series/site_2497.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Marvel's Inhumans</a>
+												<a href="series/site_1653.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Marvel's Luke Cage</a>
+												<a href="series/site_1054.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Master of None </a>
+												<a href="series/mosaic.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Mosaic</a>
+												<a href="series/mr-robot.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Mr. Robot</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="n">
+									<div class="card-header p-1 text-white">N</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_1059.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Narcos</a><div class="linha2"></div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="o">
+									<div class="card-header p-1 text-white">O</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_1938.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">O Exterminador do Futuro: As Crônicas de Sarah Connor</a>
+												<a href="series/site_2611.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">O Mecanismo </a>
+												<a href="series/site_20.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">O Vazio</a>
+												<a href="series/site_441.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Once Upon A Time&nbsp;&nbsp;<span class="small">[Era Uma Vez]</span></a>
+												<a href="series/site_1279.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Once Upon A Time in Wonderland&nbsp;&nbsp;<br class="d-sm-none"/><span class="small">[Era Uma Vez no País das Maravilhas]</span></a>
+												<a href="series/orange-is-the-new-black.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Orange Is the New Black</a>
+												<a href="series/site_859.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Orphan Black</a>
+												<a href="series/site_1430.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Outlander</a>
+												<a href="series/oz.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Oz&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="p">
+									<div class="card-header p-1 text-white">P</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/perdidos-no-espaco.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Perdidos no Espaço</a>
+												<a href="series/site_877.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Person of Interest&nbsp;&nbsp;<i class="fa fa-times text-danger" aria-hidden="true"></i></a>
+												<a href="series/site_1403.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Preacher</a>
+												<a href="series/site_158.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Pretty Little Liars&nbsp;&nbsp;<span class="small">[Maldosas]</span></a>
+												<a href="series/site_120.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Prison Break</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="q">
+									<div class="card-header p-1 text-white">Q</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_4.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Queen of the South</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="r">
+									<div class="card-header p-1 text-white">R</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_2300.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Raven's Home</a>
+												<a href="series/site_2599.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Requiem</a>
+												<a href="series/site_64.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Revenge</a>
+												<a href="series/riverdale.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Riverdale&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="s">
+									<div class="card-header p-1 text-white">S</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_483.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Salem</a>
+												<a href="series/site_1949.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Santa Clarita Diet</a>
+												<a href="series/sense8.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Sense8&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_2604.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Scandal</a>
+												<a href="series/site_971.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Scream Queens</a>
+												<a href="series/site_921.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Scream: The TV Series&nbsp;&nbsp;<span class="small">[Pânico: A Série]</span></a>
+												<a href="series/shadowhunters.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Shadowhunters&nbsp;&nbsp;<span class="small">[Caçadores de Sombras]</span>&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/sherlock.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Sherlock&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_1453.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Silicon Valley</a>
+												<a href="series/siren.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Siren</a>
+												<a href="series/site_2566.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Six Feet Under&nbsp;&nbsp;<span class="small">[A Sete Palmos]</span></a>
+												<a href="series/site_1124.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Sleepy Hollow&nbsp;&nbsp;<span class="small">[A Lenda de Sleepy Hollow]</span></a>
+												<a href="series/site_134.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Smallville</a>
+												<a href="series/site_1040.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Sons of Anarchy&nbsp;&nbsp;<span class="small">[Filhos da Anarquia]</span>&nbsp;&nbsp;<i class="fa fa-times text-danger" aria-hidden="true"></i></a>
+												<a href="series/site_42.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button"> Sorjonen </a>
+												<a href="series/site_228.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Spartacus&nbsp;&nbsp;<i class="fa fa-times text-danger" aria-hidden="true"></i></a>
+												<a href="series/site_2495.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Star Trek: Discovery</a>
+												<a href="series/site_58.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button"> Strange Angel </a>
+												<a href="series/site_1505.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Stranger Things</a>
+												<a href="series/site_1625.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Suits</a>
+												<a href="series/site_323.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Supergirl</a>
+												<a href="series/site_7.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Supernatural&nbsp;&nbsp;<span class="small">[Sobrenatural]</span></a>
+												<a href="series/swat.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Swat</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="t">
+									<div class="card-header p-1 text-white">T</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_444.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Teen Wolf</a>
+												<a href="series/site_447.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The 100</a>
+												<a href="series/the-big-bang-theory.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Big Bang Theory&nbsp;&nbsp;<span class="small">[Big Bang: A Teoria]</span>&nbsp;&nbsp;<i class="fa fa-refresh text-info" aria-hidden="true"></i></a>
+												<a href="series/site_981.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Blacklist&nbsp;&nbsp;<span class="small">[Lista Negra]</span></a>
+												<a href="series/site_2058.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Blacklist: Redemption</a>
+												<a href="series/site_47.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Bold Type</a>
+												<a href="series/site_2344.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Defenders&nbsp;&nbsp;<span class="small">[Os Defensores]</span></a>
+												<a href="series/the-end-of-the-fucking-world.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The End of The F***ing World</a>
+												<a href="series/site_1646.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Exorcist</a>
+												<a href="series/site_558.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Flash</a>
+												<a href="series/site_2190.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Flash (1990)</a>
+												<a href="series/site_1101.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Frankenstein Chronicles</a>
+												<a href="series/site_2499.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Gifted</a>
+												<a href="series/site_2501.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Good Doctor</a>
+												<a href="series/site_2608.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Handmaid's Tale</a>
+												<a href="series/site_1091.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Last Kingdom</a>
+												<a href="series/site_1064.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Last Man on Earth</a>
+												<a href="series/site_574.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Last Ship&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/the-leftlovers.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Leftovers&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_1116.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Magicians</a>
+												<a href="series/the-mist.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Mist&nbsp;&nbsp;<span class="small">[O Nevoeiro]</span>&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/the-oa.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The OA&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_372.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Originals&nbsp;&nbsp;<span class="small">[Os Originais]</span></a>
+												<a href="series/site_45.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button"> The Outpost </a>
+												<a href="series/site_2586.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Punisher</a>
+												<a href="series/site_14.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Rain</a>
+												<a href="series/site_2389.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Returned</a>
+												<a href="series/site_1107.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Shannara Chronicles</a>
+												<a href="series/site_618.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Strain</a>
+												<a href="series/the-sinner.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Sinner</a>
+												<a href="series/site_2254.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Sopranos&nbsp;&nbsp;<span class="small">[Família Soprano]</span></a>
+												<a href="series/site_16.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Vampire Diaries&nbsp;&nbsp;<span class="small">[Diários de um Vampiro]</span></a>
+												<a href="series/the-walking-dead.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The Walking Dead&nbsp;&nbsp;<i class="fa fa-refresh text-info" aria-hidden="true"></i></a>
+												<a href="series/site_13.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The White Queen </a>
+												<a href="series/site_963.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">The X-Files&nbsp;&nbsp;<span class="small">[Arquivo X]</span></a>
+												<a href="series/site_2531.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">This is Us</a>
+												<a href="series/site_199.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">True Blood&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_891.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Two and a Half Men&nbsp;&nbsp;<span class="small">[Dois Homens e Meio]</span>&nbsp;&nbsp;<i class="fa fa-times text-danger" aria-hidden="true"></i></a>
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="u">
+									<div class="card-header p-1 text-white">U</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+
+												<a href="series/umbre.html" class="btn btn-sm btn-secondary m-1 btn-option">Umbre</a>
+												<a href="series/site_2019.html" class="btn btn-sm btn-secondary m-1 btn-option">Unbreakable Kimmy Schmidt</a>
+												<a href="series/site_569.html" class="btn btn-sm btn-secondary m-1 btn-option">Under the Dome&nbsp;&nbsp;<span class="small">[O Domo]</span></a>
+												<a href="series/site_1527.html" class="btn btn-sm btn-secondary m-1 btn-option">UnREAL </a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="v">
+									<div class="card-header p-1 text-white">V</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+
+												<a href="series/site_1545.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Van Helsing</a>
+												<a href="series/site_52.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button"> Victoria </a>
+												<a href="series/site_481.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Vikings&nbsp;&nbsp;<i class="fa fa-refresh text-info" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="w">
+									<div class="card-header p-1 text-white">W</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_1662.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Westworld&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+												<a href="series/site_1344.html" class="btn btn-sm btn-secondary m-1 btn-option" role="button">Wynonna Earp&nbsp;&nbsp;<i class="fa fa-check text-success" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="x">
+									<div class="card-header p-1 text-white">X</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100"></div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="y">
+									<div class="card-header p-1 text-white">Y</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="#" class="btn btn-sm btn-secondary m-1 btn-option" role="button" data-toggle="collapse" data-target="#young-sheldon">Young Sheldon</a>
+												<div id="young-sheldon" class="collapse card-body text-white">
+													<div class="container">
+														<div class="row">
+													<div class="col-md-9 p-2"><small>Spin-off de The Big Bang Theory que conta a história do personagem Sheldon em sua infância e juventude. Enquanto o excepcional e um pouco ingênuo Sheldon lida com o mundo, sua família – muito normal – deve encontrar uma maneira de lidar com ele. Seu pai, George, está lutando para encontrar seu caminho como treinador de futebol da escola e como ser pai para um menino que ele não entende. A mãe de Sheldon, Mary, protege ferozmente seu filho em uma cidade onde ele simplesmente não se encaixa. </small></div>
+													<div class="col-md-3 p-1">
+														<div class="list-group border border-danger">
+															<a href="../series/site_2504.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
+																<small>1ª Temporada</small>
+															</a>
+															<a href="../series/site_95.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
+																<small>2ª Temporada</small>
+															</a>
+														</div>
+													</div>
+
+												</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2" data-status="z">
+									<div class="card-header p-1 text-white">Z</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="#" class="btn btn-sm btn-secondary m-1 btn-option" role="button" data-toggle="collapse" data-target="#z-nation">Z Nation</a>
+												<div id="z-nation" class="collapse card-body text-white">
+													<div class="container">
+														<div class="row">
+													<div class="col-md-9 p-2"><small>Série produzida pelo canal estadunidense "Syfy" e que estreou no segundo semestre de 2014 na tv americana. A trama se passa três anos após os EUA terem sido contaminados por um vírus zumbi. O único sobrevivente não infectado de Nova York precisa ser levado para a Califórnia para seu sangue ser usado no desenvolvimento de uma vacina. No entanto, ele esconde um segredo obscuro que pode ameaçar todos ao seu redor. </small></div>
+													<div class="col-md-3 p-1">
+														<div class="list-group border border-danger">
+															<a href="../series/site_667.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
+																<small>1ª Temporada</small>
+															</a>
+															<a href="../series/site_966.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
+																<small>2ª Temporada</small>
+															</a>
+															<a href="../series/site_1620.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
+																<small>3ª Temporada</small>
+															</a>
+															<a href="../series/site_2505.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
+																<small>4ª Temporada</small>
+															</a>
+															<a href="../series/z-nation-5-temporada.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
+																<small>5ª Temporada</small>
+															</a>
+														</div>
+													</div>
+
+												</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+					</div>
+				</div>
+<div class="col-md-3 ml-auto bg-dark">
+     <div class="container text-white my-4">
+          <div class="container">
+               <div class="row border-bottom border-white text-center">
+                    <small class="text-muted mx-auto">
+                         <p class="text-secondary">Desenvolvido por <a href="mailto:wagner.fernandes.sousa@outlook.com" class="text-white">Wagner Sousa</a>&nbsp;&nbsp;
+                              <a href="https://api.whatsapp.com/send?phone=5585991013648"><i class="fa fa-whatsapp text-success" aria-hidden="true"></i></a>
+                         </p>
+                    </small>
+               </div>
+          </div>
+     </div>
+     <div class="container text-white my-4">
+          <div class="container mb-2">
+               <div class="row border-bottom border-white pb-3">
+                    <div class="text-center col-12 small pb-2 text-white" role="alert">
+                         Participem dos nossos grupos no WhatsApp. São eles: <a href="https://chat.whatsapp.com/1b9PsPstXBG7yB49JCTpFY" target="_blank">Universo 3GP</a>, <a href="https://chat.whatsapp.com/3d6zuiilIDiI8mZxn2PztV" target="_blank">Universo NERD</a> e <a href="https://chat.whatsapp.com/53tNhDktocuLYbJNHBwsKp" target="_blank">Músicas Eletrônicas</a>. Aproveite, e entre também nos nossos grupos no Facebook, o <a href="https://facebook.com/groups/universo3gp" target="_blank">Universo 3GP</a> e <a href="https://facebook.com/groups/872446359625413" target="_blank">Universo NERD</a>. Não esqueça de curtir nossa <a href="https://facebook.com/universo3gp" target="_blank">Página</a>.
+                    </div>         
+               </div>
+          </div>
+     </div>
+     <div class="container text-white my-4">
+          <div class="container mb-2">
+               <div class="row border-bottom border-white pb-3">
+                    <p class="h6 text-center col-12 small pb-2">Classificação Indicativa de Filmes</p>
+                    <div class="col-12 ">
+                         <div class="row justify-content-md-around">
+
+                              <div class="col-4 col-md-12 col-lg-6">
+                                   <a href="filmes.php#c-livre" class="badge badge-pill badge-success w-100" onclick="location.reload();">Livre</a>
+                              </div>
+                              <div class="col-4 col-md-12 col-lg-6">
+                                   <a href="filmes.php#c-10" class="badge badge-pill badge-info w-100" onclick="location.reload();">10 anos</a>
+                              </div>
+                              <div class="col-4 col-md-12 col-lg-6">
+                                   <a href="filmes.php#c-12" class="badge badge-pill badge-warning w-100" onclick="location.reload();">12 anos</a>
+                              </div>
+                              <div class="col-4 col-md-12 col-lg-6">
+                                   <a href="filmes.php#c-14" class="badge badge-pill badge-orange w-100" onclick="location.reload();">14 anos</a>
+                              </div>
+                              <div class="col-4 col-md-12 col-lg-6">
+                                   <a href="filmes.php#c-16" class="badge badge-pill badge-danger w-100" onclick="location.reload();">16 anos</a>
+                              </div>
+                              <div class="col-4 col-md-12 col-lg-6">
+                                   <a href="filmes.php#c-18" class="badge badge-pill badge-secondary w-100" onclick="location.reload();">18 anos</a>
+                              </div>
+                         </div>
+                    </div>
+               </div>
+
+          </div>
+     </div>
+     <div class="container text-white my-4">
+          <div class="container mb-2">
+               <div class="row border-bottom border-white pb-3">
+                    <p class="h6 text-center col-12 small pb-2">Parceiros Vip</p>
+                    <div class="col-12 ">
+                         <div class="row">
+                              <div class="list-group list-group-flush w-100 text-center bg-dark">
+                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+                                        <small class="font-weight-light">Universe Projects</small>
+                                   </a>
+                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+                                        <small class="font-weight-light">Turbo Server</small>
+                                   </a>
+                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+                                        <small class="font-weight-light">Tecno Premium</small>
+                                   </a>
+                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+                                        <small class="font-weight-light">AniMania</small>
+                                   </a>
+                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+                                        <small class="font-weight-light">Baixar Filmes Mega</small></a>
+                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+                                        <small class="font-weight-light">AnimesXD</small>
+                                   </a>
+                              </div>
+                         </div>
+                    </div>
+               </div>
+          </div>
+     </div>
+     <div class="container text-white my-4 text-center">
+
+          <div id="histats_counter"></div>
+          <script type="text/javascript">var _Hasync= _Hasync|| [];
+               _Hasync.push(['Histats.start', '1,3997907,4,10,200,40,00011101']);
+               _Hasync.push(['Histats.fasi', '1']);
+               _Hasync.push(['Histats.track_hits', '']);
+               _Hasync.push(['Histats.framed_page', '']);
+               (function() {
+                    var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+                    hs.src = ('//s10.histats.com/js15_as.js');
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+               })();</script>
+          <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3997907&101" alt="" border="0"></a></noscript>
+
+     </div>
+
+     <div class="container text-white my-4">
+		<div class="fb-comments" data-href="<?php echo "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]" ?>" data-numposts="30" data-colorscheme="dark" data-mobile="auto"></div>
+     </div>
+</div>
+			</div>
+		</div>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.2/owl.carousel.min.js"></script>
+
+		<script>
+			$(document).ready(function () {
+
+				if(window.location.hash) {
+					var hash = window.location.hash;
+					hash_class(hash);
+				}
+
+				function hash_class(hash_page) {
+
+					$('.list-search .card-body a').addClass('d-none');
+					$('#data-search').addClass('d-none');
+
+					switch(hash_page) {
+						case "#c-livre":
+							var $target = "c-livre";
+							var $indicativa = "Classificação Indicativa Livre";
+							break;
+						case "#c-10":
+							var $target = "c-10";
+							var $indicativa = "Classificação Indicativa 10 anos";
+							break;
+						case "#c-12":
+							var $target = "c-12";
+							var $indicativa = "Classificação Indicativa 12 anos";
+							break;
+						case "#c-14":
+							var $target = "c-14";
+							var $indicativa = "Classificação Indicativa 14 anos";
+							break;
+						case "#c-16":
+							var $target = "c-16";
+							var $indicativa = "Classificação Indicativa 16 anos";
+							break;
+						case "#c-18":
+							var $target = "c-18";
+							var $indicativa = "Classificação Indicativa 18 anos";
+							break;
+					}
+
+					$('.list-search .card-body a[data-status="' + $target + '"]').removeClass('d-none');
+					$('.search-query-sf').remove();
+					$('#c-indicativa').empty();
+					$('#c-indicativa').removeClass('d-none');
+					$('#c-indicativa').prepend($indicativa);
+					empty_card();
+				}
+
+				$('.btn-filter').on('click', function () {
+					var $target = $(this).data('target');
+					if ($target != 'all') {
+						$('.card').addClass('d-none');
+						$('.btn-filter').removeClass('active btn-danger disabled');
+						$(this).addClass('active btn-danger disabled');
+						$('#data-search').addClass('d-none');
+						$('.card[data-status="' + $target + '"]').fadeIn('slow').removeClass('d-none');
+					} else {
+						$('.btn-filter').removeClass('active btn-danger disabled');
+						$(this).addClass('active btn-danger disabled');
+						$('.card').fadeIn('slow').removeClass('d-none');
+						$('#data-search').addClass('d-none');
+					}
+				});
+
+				$('#system-search').keyup( function() {
+					var that = this;
+					// affect all table rows on in systems table
+					var tableBody = $('#push');
+					var tableRowsClass = $('.list-search .card-body a');
+					$('.search-sf').remove();
+
+					//$('.list-search').addClass('d-none');
+					//$('.list-search[data-status="' + x.charAt(0) + '"]').fadeIn('slow').removeClass('d-none');
+					var clone = [];
+					tableRowsClass.each( function(i, val) {
+
+						//Lower text for case insensitive
+						var rowText = $(val).text().toLowerCase();
+						var inputText = $(that).val().toLowerCase();
+						if(inputText != '')
+						{
+							$('.search-query-sf').remove();
+							$('#push').empty();
+							$('#push').removeClass('d-none');
+							tableBody.prepend('Pesquisando por: "' + $(that).val() + "'");
+						}
+						else
+						{												
+							$('.search-query-sf').remove();
+							$('#data-search').addClass('d-none');
+						}
+
+						if( rowText.indexOf( inputText ) == -1 )
+						{
+							//hide rows
+							tableRowsClass.eq(i).hide();
+
+						}
+						else
+						{
+							$('.search-sf').remove();
+							tableRowsClass.eq(i).show();
+							clone[clone.length] = tableRowsClass.eq(i).clone(); //tableRowsClass.eq(i).clone();
+
+						}
+					});
+
+					if($(that).val().toLowerCase() != '')
+					{
+						$('.list-search').addClass('d-none');
+						$('#filter').addClass('d-none');
+						$('#data-search').removeClass('d-none');
+						document.getElementById("search-results").innerHTML=""; 
+						$('#search-results').empty();
+						$('#search-results').append(clone);
+					}
+					else
+					{
+						$('.list-search').removeClass('d-none');
+						$('#filter').removeClass('d-none');
+						$('#filter-no').click();
+						$('#data-search').addClass('d-none');
+					}
+
+					//all tr elements are hidden
+					if(tableRowsClass.children(':visible').length == 0 && clone == '')
+					{
+						$('#push').removeClass('d-none');
+						$('#push').empty();
+						tableBody.append('Nenhum Resultado Encontrado');
+						$('#search-results').addClass('d-none');
+					}
+				});
+			});
+		</script>
+
+
+	</body></html>
