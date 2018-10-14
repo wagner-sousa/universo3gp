@@ -537,19 +537,20 @@
 												<div id="young-sheldon" class="collapse card-body text-white">
 													<div class="container">
 														<div class="row">
-													<div class="col-md-9 p-2"><small>Spin-off de The Big Bang Theory que conta a história do personagem Sheldon em sua infância e juventude. Enquanto o excepcional e um pouco ingênuo Sheldon lida com o mundo, sua família – muito normal – deve encontrar uma maneira de lidar com ele. Seu pai, George, está lutando para encontrar seu caminho como treinador de futebol da escola e como ser pai para um menino que ele não entende. A mãe de Sheldon, Mary, protege ferozmente seu filho em uma cidade onde ele simplesmente não se encaixa. </small></div>
-													<div class="col-md-3 p-1">
-														<div class="list-group border border-danger">
-															<a href="../series/site_2504.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
-																<small>1ª Temporada</small>
-															</a>
-															<a href="../series/site_95.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
-																<small>2ª Temporada</small>
-															</a>
-														</div>
-													</div>
+															<div class="col-3"><img class="lib-img img-fluid" src="https://m.media-amazon.com/images/M/MV5BZDg3MGNhYjItZGU2Yi00MzU4LWE4NGUtYjA2OTVjNGUyMjE4XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SY1000_CR0,0,666,1000_AL_.jpg"></div>
+															<div class="col-md-6 p-2"><small>Spin-off de The Big Bang Theory que conta a história do personagem Sheldon em sua infância e juventude. Enquanto o excepcional e um pouco ingênuo Sheldon lida com o mundo, sua família – muito normal – deve encontrar uma maneira de lidar com ele. Seu pai, George, está lutando para encontrar seu caminho como treinador de futebol da escola e como ser pai para um menino que ele não entende. A mãe de Sheldon, Mary, protege ferozmente seu filho em uma cidade onde ele simplesmente não se encaixa. </small></div>
+															<div class="col-md-3 p-1">
+																<div class="list-group border border-danger">
+																	<a href="../series/site_2504.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
+																		<small>1ª Temporada</small>
+																	</a>
+																	<a href="../series/site_95.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
+																		<small>2ª Temporada</small>
+																	</a>
+																</div>
+															</div>
 
-												</div>
+														</div>
 													</div>
 												</div>
 											</div>
@@ -565,28 +566,29 @@
 												<div id="z-nation" class="collapse card-body text-white">
 													<div class="container">
 														<div class="row">
-													<div class="col-md-9 p-2"><small>Série produzida pelo canal estadunidense "Syfy" e que estreou no segundo semestre de 2014 na tv americana. A trama se passa três anos após os EUA terem sido contaminados por um vírus zumbi. O único sobrevivente não infectado de Nova York precisa ser levado para a Califórnia para seu sangue ser usado no desenvolvimento de uma vacina. No entanto, ele esconde um segredo obscuro que pode ameaçar todos ao seu redor. </small></div>
-													<div class="col-md-3 p-1">
-														<div class="list-group border border-danger">
-															<a href="../series/site_667.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
-																<small>1ª Temporada</small>
-															</a>
-															<a href="../series/site_966.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
-																<small>2ª Temporada</small>
-															</a>
-															<a href="../series/site_1620.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
-																<small>3ª Temporada</small>
-															</a>
-															<a href="../series/site_2505.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
-																<small>4ª Temporada</small>
-															</a>
-															<a href="../series/z-nation-5-temporada.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
-																<small>5ª Temporada</small>
-															</a>
-														</div>
-													</div>
+															<div class="col-3"><img class="lib-img img-fluid" src="https://i.pinimg.com/originals/39/06/66/390666035fce5b496865da0fa2790ea2.jpg"></div>
+															<div class="col-md-6 p-2"><small>Série produzida pelo canal estadunidense "Syfy" e que estreou no segundo semestre de 2014 na tv americana. A trama se passa três anos após os EUA terem sido contaminados por um vírus zumbi. O único sobrevivente não infectado de Nova York precisa ser levado para a Califórnia para seu sangue ser usado no desenvolvimento de uma vacina. No entanto, ele esconde um segredo obscuro que pode ameaçar todos ao seu redor. </small></div>
+															<div class="col-md-3 p-1">
+																<div class="list-group border border-danger">
+																	<a href="../series/site_667.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
+																		<small>1ª Temporada</small>
+																	</a>
+																	<a href="../series/site_966.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
+																		<small>2ª Temporada</small>
+																	</a>
+																	<a href="../series/site_1620.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
+																		<small>3ª Temporada</small>
+																	</a>
+																	<a href="../series/site_2505.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
+																		<small>4ª Temporada</small>
+																	</a>
+																	<a href="../series/z-nation-5-temporada.html" class="list-group-item list-group-item-action bg-dark text-white py-1">
+																		<small>5ª Temporada</small>
+																	</a>
+																</div>
+															</div>
 
-												</div>
+														</div>
 													</div>
 												</div>
 											</div>
