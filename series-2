@@ -1,27 +1,29 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="">
-	<meta name="author" content="">
-	<link href="../../../../favicon.ico" rel="icon">
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="author" content="Wagner Sousa">
+		<link href="../img/icones/icone.png" rel="icon" type="imagem/png">
 
-	<title>Universo 3gp</title>
+		<title>Universo 3gp</title>
 
-	<!-- Bootstrap core CSS -->
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-	<!-- Carousel -->
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
-	<!-- Font -->
-	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
-	<!-- Custom styles for this template -->
-	<link href="css/style.min.css" rel="stylesheet">
+		<!-- Bootstrap core CSS -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+		<!-- Carousel -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+		<!-- Font -->
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+		<!-- Custom styles for this template -->
+		<link href="css/style.min.css" rel="stylesheet">
 
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/FontAwesome.otf" />
 
-	<!-- javascript -->
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+		<!-- javascript -->
+		<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 
 	</head>
 
@@ -70,7 +72,1010 @@
 			<div class="row">
 				<div class="col-md-9">
 					<div class="container">
-<div class="container multi-collapse"  data-status="support">
+						<div class="row">
+							<div class="container small text-white text-justify">
+								<h5 class="text-center">Séries</h5>
+								<span class="font-weight-bold">ATUALIZAÇÃO SOBRE AS SÉRIES:</span>
+								Devido aos problemas recorrentes dos servidores e sobre a grande quantidade de séries, sendo que a maioria está OFF, decidimos fazer algumas mudanças. NÃO ofereceremos mais suporte a algumas séries que estavam na lista. Movi as mesmas para uma nova página. As séries que não estiverem nessa página principal não serão mais atualizadas pelos ADMS, o que implica dizer que não vão ser mais reupadas nem postadas novas temporadas. Infelizmente essa é a única opção. Não tem como atualizar quase 270 séries, é um trabalho cansativo e desnecessário, já que a maioria das séries que foram movidas tem poucos downloads, são ruins ou desconhecidas. Portanto, resolvemos concentrar nossos esforços nas séries mais relevantes para vocês. Sinto muito se alguma série que você gosta saiu das séries principais, mas o site precisa de mudanças urgentes. Tentaremos manter as séries dessa página atualizadas e reupadas na medida do possível, e iremos reupá-las em um servidor novo e melhor.
+								<div class="justify-content-center py-3">
+									<div class="row justify-content-center">
+										<button class="btn-categories btn btn-secondary m-2 btn-sm" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="multi-collapse" data-target="nosupport">
+											<span class="small">Séries Sem Suporte</span>
+										</button>
+										<button class="btn-categories btn btn-secondary m-2 btn-sm" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="multi-collapse" data-target="status">
+											<span class="small">Confira a Lista de Séries que estão sendo Reupadas</span>
+										</button>
+										<button class="btn-categories btn btn-secondary m-2 btn-sm active border border-info" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="multi-collapse" data-target="support">
+											<span class="small">Séries Com Suporte</span>
+										</button>
+									</div>
+
+								</div>
+							</div>
+
+							<div class="container multi-collapse d-none"  data-status="nosupport">
+								<div class="small text-white text-justify mb-3">
+									<div class="alert bg-dark">
+										Essa é a lista das séries que não ofereceremos mais suporte. Como foi explicado na página principal, decidimos selecionar apenas as séries mais relevantes para mantermos atualizadas, já que a lista é muito grande e temos poucos administradores para oferecerem suporte para as mesmas, logo reduzir o número é a melhor opção. Algumas séries abaixo podem estar disponíveis para baixar, mas com o tempo os arquivos podem ser apagados pelo servidor e não reuparemos mais. Sentimos muito por isso.
+									</div>
+								</div>
+								<div class="container mb-3 text-center">
+									<button class="btn btn-secondary btn-sm btn-filter badge active btn-danger disabled" data-target="all">Todos</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="number">#</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="a">A</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="b">B</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="c">C</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="d">D</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="e">E</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="f">F</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="g">G</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="h">H</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="i">I</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="j">J</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="k">K</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="l">L</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="m">M</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="n">N</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="o">O</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="p">P</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="q">Q</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="r">R</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="s">S</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="t">T</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="u">U</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="v">V</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="w">W</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="x">X</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="y">Y</button>
+									<button class="btn btn-secondary btn-sm btn-filter badge" data-target="z">Z</button>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="number">
+									<div class="card-header p-1 text-white">#</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_1224.html" class="btn btn-sm btn-secondary m-1" role="button">11.22.63</a>
+												<a href="series/site_994.html" class="btn btn-sm btn-secondary m-1" role="button">100 Code</a>
+												<a href="series/site_1018.html"class="btn btn-sm btn-secondary m-1" role="button">2 Broke Girls&nbsp;&nbsp;<span class="text-white small">[Duas Garotas em Apuros]</span></a>
+												<a href="series/site_1698.html" class="btn btn-sm btn-secondary m-1" role="button">2091</a>
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="a">
+									<div class="card-header p-1 text-white">A</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_2315.html" class="btn btn-sm btn-secondary m-1" role="button">Aftermath</a>
+												<a href="series/site_1509.html" class="btn btn-sm btn-secondary m-1" role="button">American Gothic</a>
+												<a href="series/site_2173.html" class="btn btn-sm btn-secondary m-1" role="button">Anne with an "E"</a>
+												<a href="series/site_1538.html" class="btn btn-sm btn-secondary m-1" role="button">Animal Kingdom</a>
+												<a href="series/site_2330.html" class="btn btn-sm btn-secondary m-1" role="button">Animals</a>
+												<a href="series/site_1074.html" class="btn btn-sm btn-secondary m-1" role="button">Aquarius</a>
+												<a href="series/site_295.html" class="btn btn-sm btn-secondary m-1" role="button">Assassin's Creed: Lineage</a>
+												<a href="series/site_1013.html" class="btn btn-sm btn-secondary m-1" role="button">A to Z</a>
+												<a href="series/site_2325.html" class="btn btn-sm btn-secondary m-1" role="button">Atypical</a>
+												<a href="series/site_1916.html" class="btn btn-sm btn-secondary m-1" role="button">Awkward</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="b">
+									<div class="card-header p-1 text-white">B</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_477.html" class="btn btn-sm btn-secondary m-1" role="button">Battlestar Galactica</a>
+												<a href="series/site_1104.html" class="btn btn-sm btn-secondary m-1" role="button">Beowulf: Return to the Shieldlands</a>
+												<a href="series/site_1613.html" class="btn btn-sm btn-secondary m-1" role="button">Better Things</a>
+												<a href="series/site_889.html" class="btn btn-sm btn-secondary m-1" role="button">Between</a>
+												<a href="series/site_1953.html" class="btn btn-sm btn-secondary m-1" role="button">Big Little Lies</a>
+												<a href="series/site_2286.html" class="btn btn-sm btn-secondary m-1" role="button">Blood Drive</a>
+												<a href="series/site_2613.html" class="btn btn-sm btn-secondary m-1" role="button">Britannia</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="c">
+									<div class="card-header p-1 text-white">C</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+
+												<a href="series/site_2137.html" class="btn btn-sm btn-secondary m-1" role="button">Cardinal</a>
+												<a href="series/site_2489.html" class="btn btn-sm btn-secondary m-1" role="button">Channel Zero</a>
+												<a href="series/site_1449.html" class="btn btn-sm btn-secondary m-1" role="button">Cleverman</a>
+												<a href="series/site_1362.html" class="btn btn-sm btn-secondary m-1" role="button">Containment</a>
+												<a href="series/site_2184.html" class="btn btn-sm btn-secondary m-1" role="button">Criminal Minds</a>
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="d">
+									<div class="card-header p-1 text-white">D</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_978.html" class="btn btn-sm btn-secondary m-1" role="button">Dark Matter</a>
+												<a href="series/site_1496.html" class="btn btn-sm btn-secondary m-1" role="button">Dead of Summer</a>
+												<a href="series/site_1513.html" class="btn btn-sm btn-secondary m-1" role="button">Defiance</a>
+												<a href="series/site_1918.html" class="btn btn-sm btn-secondary m-1" role="button">Dirk Gently's Holistic Detective Agency</a>
+												<a href="series/site_550.html" class="btn btn-sm btn-secondary m-1" role="button">Dominion</a>
+												<a href="series/site_472.html" class="btn btn-sm btn-secondary m-1" role="button">Dracula</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="e">
+									<div class="card-header p-1 text-white">E</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_306.html" class="btn btn-sm btn-secondary m-1" role="button">Eu, a Patroa e as Crianças</a>
+												<a href="series/site_616.html" class="btn btn-sm btn-secondary m-1" role="button">Extant</a>
+												<a href="series/site_2511.html" class="btn btn-sm btn-secondary m-1" role="button">Extinct</a>
+												<a href="series/site_1523.html" class="btn btn-sm btn-secondary m-1" role="button">Eye Candy</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="f">
+									<div class="card-header p-1 text-white">F</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_409.html" class="btn btn-sm btn-secondary m-1" role="button">Falling Skies</a>
+												<a href="series/site_1485.html" class="btn btn-sm btn-secondary m-1" role="button">Feed The Beast</a>
+												<a href="series/site_2391.html" class="btn btn-sm btn-secondary m-1" role="button">Frequency</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="g">
+									<div class="card-header p-1 text-white">G</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_1511.html" class="btn btn-sm btn-secondary m-1" role="button">Guilt</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="h">
+									<div class="card-header p-1 text-white">H</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_223.html" class="btn btn-sm btn-secondary m-1" role="button">Harper's Island</a>
+												<a href="series/site_2059.html" class="btn btn-sm btn-secondary m-1" role="button">Haters Back Off</a>
+												<a href="series/site_941.html" class="btn btn-sm btn-secondary m-1" role="button">Haven</a>
+												<a href="series/site_1328.html" class="btn btn-sm btn-secondary m-1" role="button">Helix</a>
+												<a href="series/site_1371.html" class="btn btn-sm btn-secondary m-1" role="button">Heartbeat</a>
+												<a href="series/site_1578.html" class="btn btn-sm btn-secondary m-1" role="button">Hemlock Grove</a>
+												<a href="series/site_106.html" class="btn btn-sm btn-secondary m-1" role="button">Heroes</a>
+												<a href="series/site_973.html" class="btn btn-sm btn-secondary m-1" role="button">Heroes: Reborn</a>
+												<a href="series/site_1100.html" class="btn btn-sm btn-secondary m-1" role="button">Houdini</a>
+												<a href="series/site_423.html" class="btn btn-sm btn-secondary m-1" role="button">Hostages<span class="text-white small">&nbsp;&nbsp;[Reféns]</span></a>
+												<a href="series/site_1357.html" class="btn btn-sm btn-secondary m-1" role="button">Hunters</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="i">
+									<div class="card-header p-1 text-white">I</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_124.html" class="btn btn-sm btn-secondary m-1" role="button">iCarly</a>
+												<a href="series/site_1498.html" class="btn btn-sm btn-secondary m-1" role="button">Intelligence</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="j">
+									<div class="card-header p-1 text-white">J</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100"></div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="k">
+									<div class="card-header p-1 text-white">K</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_29.html" class="btn btn-sm btn-secondary m-1" role="button"> Killing Eve </a>
+												<a href="series/site_1016.html" class="btn btn-sm btn-secondary m-1" role="button">Knight Rider<span class="text-white small">&nbsp;&nbsp;[A Nova Super Máquina]</span></a>
+												<a href="series/site_2188.html" class="btn btn-sm btn-secondary m-1" role="button">Kyle XY</a>
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="l">
+									<div class="card-header p-1 text-white">L</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_985.html" class="btn btn-sm btn-secondary m-1" role="button">Limitless</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="m">
+									<div class="card-header p-1 text-white">M</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_1652.html" class="btn btn-sm btn-secondary m-1" role="button">MacGyver</a>
+												<a href="series/site_2393.html" class="btn btn-sm btn-secondary m-1" role="button">Manhunt Unabomber</a>
+												<a href="series/site_2370.html" class="btn btn-sm btn-secondary m-1" role="button">Midnight Texas </a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="n">
+									<div class="card-header p-1 text-white">N</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100"></div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="o">
+									<div class="card-header p-1 text-white">O</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_2318.html" class="btn btn-sm btn-secondary m-1" role="button">O Jardim de Bronze</a>
+												<a href="series/site_1434.html" class="btn btn-sm btn-secondary m-1" role="button">Outcast</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="p">
+									<div class="card-header p-1 text-white">P</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_534.html" class="btn btn-sm btn-secondary m-1" role="button">Penny Dreadful</a>
+												<a href="series/site_2148.html" class="btn btn-sm btn-secondary m-1" role="button">Powerless</a>
+												<a href="series/site_841.html" class="btn btn-sm btn-secondary m-1" role="button">Powers</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="q">
+									<div class="card-header p-1 text-white">Q</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_1660.html" class="btn btn-sm btn-secondary m-1" role="button">Quantico</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="r">
+									<div class="card-header p-1 text-white">R</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_1784.html" class="btn btn-sm btn-secondary m-1" role="button">Ray Donovan</a>
+												<a href="series/site_1047.html" class="btn btn-sm btn-secondary m-1" role="button">Rei Tut</a>
+												<a href="series/site_1380.html" class="btn btn-sm btn-secondary m-1" role="button">Reign</a>
+												<a href="series/site_2376.html" class="btn btn-sm btn-secondary m-1" role="button">Room 104</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="s">
+									<div class="card-header p-1 text-white">S</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_2279.html" class="btn btn-sm btn-secondary m-1" role="button">Salvation</a>
+												<a href="series/site_1109.html" class="btn btn-sm btn-secondary m-1" role="button">Second Chance</a>
+												<a href="series/site_1136.html" class="btn btn-sm btn-secondary m-1" role="button">Shades of Blue</a>
+												<a href="series/site_1847.html" class="btn btn-sm btn-secondary m-1" role="button">Shooter</a>
+												<a href="series/site_1866.html" class="btn btn-sm btn-secondary m-1" role="button">SKAM</a>
+												<a href="series/site_2001.html" class="btn btn-sm btn-secondary m-1" role="button">Skins</a>
+												<a href="series/site_1296.html" class="btn btn-sm btn-secondary m-1" role="button">Stitchers</a>
+												<a href="series/site_1753.html" class="btn btn-sm btn-secondary m-1" role="button">Supermax</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="t">
+									<div class="card-header p-1 text-white">T</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_250.html" class="btn btn-sm btn-secondary m-1" role="button">Terra Nova</a>
+												<a href="series/site_1367.html" class="btn btn-sm btn-secondary m-1" role="button">The Catch</a>
+												<a href="series/site_2506.html" class="btn btn-sm btn-secondary m-1" role="button">The Deuce</a>
+												<a href="series/site_1301.html" class="btn btn-sm btn-secondary m-1" role="button">The Family</a>
+												<a href="series/site_1571.html" class="btn btn-sm btn-secondary m-1" role="button">The Get Down</a>
+												<a href="series/site_2243.html" class="btn btn-sm btn-secondary m-1" role="button">The Good Witch</a>
+												<a href="series/site_869.html" class="btn btn-sm btn-secondary m-1" role="button">The Messengers<span class="text-white small">&nbsp;&nbsp;[Os Mensageiros]</span></a>
+												<a href="series/site_1522.html" class="btn btn-sm btn-secondary m-1" role="button">The Night Of</a>
+												<a href="series/site_304.html" class="btn btn-sm btn-secondary m-1" role="button">The O.C.</a>
+												<a href="series/site_1081.html" class="btn btn-sm btn-secondary m-1" role="button">The Secret Circle</a>
+												<a href="series/site_2374.html" class="btn btn-sm btn-secondary m-1" role="button">The Tick</a>
+												<a href="series/site_2382.html" class="btn btn-sm btn-secondary m-1" role="button">The Tudors</a>
+												<a href="series/site_1259.html" class="btn btn-sm btn-secondary m-1" role="button">The Whispers</a>
+												<a href="series/site_2284.html" class="btn btn-sm btn-secondary m-1" role="button">Time after Time</a>
+												<a href="series/site_218.html" class="btn btn-sm btn-secondary m-1" role="button">Todo Mundo Odeia o Chris</a>
+												<a href="series/site_2352.html" class="btn btn-sm btn-secondary m-1" role="button">Twin Peaks</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="u">
+									<div class="card-header p-1 text-white">U</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100"></div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="v">
+									<div class="card-header p-1 text-white">V</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_208.html" class="btn btn-sm btn-secondary m-1" role="button">Victorious</a>
+												<a href="series/site_1214.html" class="btn btn-sm btn-secondary m-1" role="button">Vinyl</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="w">
+									<div class="card-header p-1 text-white">W</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100"></div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="x">
+									<div class="card-header p-1 text-white">X</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100"></div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="y">
+									<div class="card-header p-1 text-white">Y</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_2250.html" class="btn btn-sm btn-secondary m-1" role="button">You Me Her</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2 border border-danger" data-status="z">
+									<div class="card-header p-1 text-white">Z</div>
+									<div class="card-body py-1">
+										<div class="row justify-content-center">
+											<div class="list-group list-group-flush w-100">
+												<a href="series/site_1567.html" class="btn btn-sm btn-secondary m-1" role="button">Zoo</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="container multi-collapse d-none"  data-status="status">
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Breaking Bad</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/breaking-bad-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/breaking-bad-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/breaking-bad-3-temporada.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/breaking-bad-4-temporada.html" class="badge badge-success">
+															4ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/breaking-bad-5-temporada.html" class="badge badge-success">
+															5ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Into the Badlands</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/into-the-badlands-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/into-the-badlands-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/into-the-badlands-3-temporada.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Daredevil</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/daredevil-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/daredevil-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Sense8</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/sense8-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/sense8-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Sherlock</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/sherlock-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/sherlock-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/sherlock-3-temporada.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/sherlock-4-temporada.html" class="badge badge-success">
+															4ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">American Gods</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/american-gods-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Shadowhunters</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/shadowhunters-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/shadowhunters-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/shadowhunters-3-temporada.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">The Mist</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/the-mist-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>       
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">The Big Bang Theory</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/the-big-bang-theory-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/the-big-bang-theory-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/the-big-bang-theory-3-temporada.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/the-big-bang-theory-4-temporada.html" class="badge badge-success">
+															4ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/the-big-bang-theory-5-temporada.html" class="badge badge-success">
+															5ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/the-big-bang-theory-6-temporada.html" class="badge badge-success">
+															6ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">The OA</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/the-oa-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Band of Brothers</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/band-of-brothers.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Colony</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/colony-1-temporada-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/colony-1-temporada-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/colony-1-temporada-3-temporada.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Vikings</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/site_482.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/site_528.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/site_789.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">True Blood</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/site_200.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/site_291.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/site_955.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/site_959.html" class="badge badge-success">
+															4ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/site_960.html" class="badge badge-success">
+															5ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/site_1274.html" class="badge badge-success">
+															6ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/site_1277.html" class="badge badge-success">
+															7ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">The Walking Dead</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/the-walking-dead-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/the-walking-dead-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/the-walking-dead-3-temporada.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/the-walking-dead-4-temporada.html" class="badge badge-success">
+															4ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/the-walking-dead-5-temporada.html" class="badge badge-success">
+															5ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/the-walking-dead-6-temporada.html" class="badge badge-success">
+															6ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/the-walking-dead-7-temporada.html" class="badge badge-success">
+															7ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/the-walking-dead-8-temporada.html" class="badge badge-success">
+															8ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Legion</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/legion-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/legion-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Bitten</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/site_1374.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/site_1375.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/site_1385.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">The Leftlovers</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/the-leftlovers-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/the-leftlovers-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Game of Thrones</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/game-of-thrones-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/game-of-thrones-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/game-of-thrones-3-temporada.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/game-of-thrones-4-temporada.html" class="badge badge-success">
+															4ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/game-of-thrones-5-temporada.html" class="badge badge-success">
+															5ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/game-of-thrones-6-temporada.html" class="badge badge-success">
+															6ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/game-of-thrones-7-temporada.html" class="badge badge-success">
+															7ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">La Casa de Papel</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/la-casa-de-papel-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/la-casa-de-papel-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Riverdale</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/riverdale-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">13 Reasons Why</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/13-reasons-why-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Lucifer</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/lucifer-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/lucifer-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/lucifer-3-temporada.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Breaking Bad</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/breaking-bad-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/breaking-bad-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/breaking-bad-3-temporada.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/breaking-bad-4-temporada.html" class="badge badge-success">
+															4ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/breaking-bad-5-temporada.html" class="badge badge-success">
+															5ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">Black Mirror</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/black-mirror-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/black-mirror-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/black-mirror-3-temporada.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/black-mirror-4-temporada.html" class="badge badge-success">
+															4ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card w-100 bg-dark text-center rounded mb-2">
+									<div class="card-header p-1 text-white">American Horror Story</div>
+									<div>
+										<div class="card-body py-1">
+											<div class="row justify-content-center">
+												<div class="list-group list-group-flush w-100">
+													<div class="">
+														<a href="http://universo3gp.org/series/american-horror-story-1-temporada.html" class="badge badge-success">
+															1ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/american-horror-story-2-temporada.html" class="badge badge-success">
+															2ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/american-horror-story-3-temporada.html" class="badge badge-success">
+															3ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/american-horror-story-4-temporada.html" class="badge badge-success">
+															4ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/american-horror-story-5-temporada.html" class="badge badge-success">
+															5ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/american-horror-story-6-temporada.html" class="badge badge-success">
+															6ª Temporada
+														</a>
+														<a href="http://universo3gp.org/series/american-horror-story-7-temporada.html" class="badge badge-success">
+															7ª Temporada
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>                                  
+
+							<div class="container multi-collapse"  data-status="support">
 								<div class="row small text-white text-justify justify-content-center mb-3">
 									<div class="alert bg-dark m-0 w-100 px-0 row">
 										<div class="col-12 col-md-auto">
@@ -596,117 +1601,119 @@
 									</div>
 								</div>
 							</div>
+						</div>
 					</div>
 				</div>
-<div class="col-md-3 ml-auto bg-dark">
-     <div class="container text-white my-4">
-          <div class="container">
-               <div class="row border-bottom border-white text-center">
-                    <small class="text-muted mx-auto">
-                         <p class="text-secondary">Desenvolvido por <a href="mailto:wagner.fernandes.sousa@outlook.com" class="text-white">Wagner Sousa</a>&nbsp;&nbsp;
-                              <a href="https://api.whatsapp.com/send?phone=5585991013648"><i class="fa fa-whatsapp text-success" aria-hidden="true"></i></a>
-                         </p>
-                    </small>
-               </div>
-          </div>
-     </div>
-     <div class="container text-white my-4">
-          <div class="container mb-2">
-               <div class="row border-bottom border-white pb-3">
-                    <div class="text-center col-12 small pb-2 text-white" role="alert">
-                         Participem dos nossos grupos no WhatsApp. São eles: <a href="https://chat.whatsapp.com/1b9PsPstXBG7yB49JCTpFY" target="_blank">Universo 3GP</a>, <a href="https://chat.whatsapp.com/3d6zuiilIDiI8mZxn2PztV" target="_blank">Universo NERD</a> e <a href="https://chat.whatsapp.com/53tNhDktocuLYbJNHBwsKp" target="_blank">Músicas Eletrônicas</a>. Aproveite, e entre também nos nossos grupos no Facebook, o <a href="https://facebook.com/groups/universo3gp" target="_blank">Universo 3GP</a> e <a href="https://facebook.com/groups/872446359625413" target="_blank">Universo NERD</a>. Não esqueça de curtir nossa <a href="https://facebook.com/universo3gp" target="_blank">Página</a>.
-                    </div>         
-               </div>
-          </div>
-     </div>
-     <div class="container text-white my-4">
-          <div class="container mb-2">
-               <div class="row border-bottom border-white pb-3">
-                    <p class="h6 text-center col-12 small pb-2">Classificação Indicativa de Filmes</p>
-                    <div class="col-12 ">
-                         <div class="row justify-content-md-around">
+				<div class="col-md-3 ml-auto bg-dark">
+					<div class="container text-white my-4">
+						<div class="container">
+							<div class="row border-bottom border-white text-center">
+								<small class="text-muted mx-auto">
+									<p class="text-secondary">Desenvolvido por <a href="mailto:wagner.fernandes.sousa@outlook.com" class="text-white">Wagner Sousa</a>&nbsp;&nbsp;
+										<a href="https://api.whatsapp.com/send?phone=5585991013648"><i class="fa fa-whatsapp text-success" aria-hidden="true"></i></a>
+									</p>
+								</small>
+							</div>
+						</div>
+					</div>
+					<div class="container text-white my-4">
+						<div class="container mb-2">
+							<div class="row border-bottom border-white pb-3">
+								<div class="text-center col-12 small pb-2 text-white" role="alert">
+									Participem dos nossos grupos no WhatsApp. São eles: <a href="https://chat.whatsapp.com/1b9PsPstXBG7yB49JCTpFY" target="_blank">Universo 3GP</a>, <a href="https://chat.whatsapp.com/3d6zuiilIDiI8mZxn2PztV" target="_blank">Universo NERD</a> e <a href="https://chat.whatsapp.com/53tNhDktocuLYbJNHBwsKp" target="_blank">Músicas Eletrônicas</a>. Aproveite, e entre também nos nossos grupos no Facebook, o <a href="https://facebook.com/groups/universo3gp" target="_blank">Universo 3GP</a> e <a href="https://facebook.com/groups/872446359625413" target="_blank">Universo NERD</a>. Não esqueça de curtir nossa <a href="https://facebook.com/universo3gp" target="_blank">Página</a>.
+								</div>         
+							</div>
+						</div>
+					</div>
+					<div class="container text-white my-4">
+						<div class="container mb-2">
+							<div class="row border-bottom border-white pb-3">
+								<p class="h6 text-center col-12 small pb-2">Classificação Indicativa de Filmes</p>
+								<div class="col-12 ">
+									<div class="row justify-content-md-around">
 
-                              <div class="col-4 col-md-12 col-lg-6">
-                                   <a href="filmes.php#c-livre" class="badge badge-pill badge-success w-100" onclick="location.reload();">Livre</a>
-                              </div>
-                              <div class="col-4 col-md-12 col-lg-6">
-                                   <a href="filmes.php#c-10" class="badge badge-pill badge-info w-100" onclick="location.reload();">10 anos</a>
-                              </div>
-                              <div class="col-4 col-md-12 col-lg-6">
-                                   <a href="filmes.php#c-12" class="badge badge-pill badge-warning w-100" onclick="location.reload();">12 anos</a>
-                              </div>
-                              <div class="col-4 col-md-12 col-lg-6">
-                                   <a href="filmes.php#c-14" class="badge badge-pill badge-orange w-100" onclick="location.reload();">14 anos</a>
-                              </div>
-                              <div class="col-4 col-md-12 col-lg-6">
-                                   <a href="filmes.php#c-16" class="badge badge-pill badge-danger w-100" onclick="location.reload();">16 anos</a>
-                              </div>
-                              <div class="col-4 col-md-12 col-lg-6">
-                                   <a href="filmes.php#c-18" class="badge badge-pill badge-secondary w-100" onclick="location.reload();">18 anos</a>
-                              </div>
-                         </div>
-                    </div>
-               </div>
+										<div class="col-4 col-md-12 col-lg-6">
+											<a href="filmes.php#c-livre" class="badge badge-pill badge-success w-100" onclick="location.reload();">Livre</a>
+										</div>
+										<div class="col-4 col-md-12 col-lg-6">
+											<a href="filmes.php#c-10" class="badge badge-pill badge-info w-100" onclick="location.reload();">10 anos</a>
+										</div>
+										<div class="col-4 col-md-12 col-lg-6">
+											<a href="filmes.php#c-12" class="badge badge-pill badge-warning w-100" onclick="location.reload();">12 anos</a>
+										</div>
+										<div class="col-4 col-md-12 col-lg-6">
+											<a href="filmes.php#c-14" class="badge badge-pill badge-orange w-100" onclick="location.reload();">14 anos</a>
+										</div>
+										<div class="col-4 col-md-12 col-lg-6">
+											<a href="filmes.php#c-16" class="badge badge-pill badge-danger w-100" onclick="location.reload();">16 anos</a>
+										</div>
+										<div class="col-4 col-md-12 col-lg-6">
+											<a href="filmes.php#c-18" class="badge badge-pill badge-secondary w-100" onclick="location.reload();">18 anos</a>
+										</div>
+									</div>
+								</div>
+							</div>
 
-          </div>
-     </div>
-     <div class="container text-white my-4">
-          <div class="container mb-2">
-               <div class="row border-bottom border-white pb-3">
-                    <p class="h6 text-center col-12 small pb-2">Parceiros Vip</p>
-                    <div class="col-12 ">
-                         <div class="row">
-                              <div class="list-group list-group-flush w-100 text-center bg-dark">
-                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
-                                        <small class="font-weight-light">Universe Projects</small>
-                                   </a>
-                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
-                                        <small class="font-weight-light">Turbo Server</small>
-                                   </a>
-                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
-                                        <small class="font-weight-light">Tecno Premium</small>
-                                   </a>
-                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
-                                        <small class="font-weight-light">AniMania</small>
-                                   </a>
-                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
-                                        <small class="font-weight-light">Baixar Filmes Mega</small></a>
-                                   <a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
-                                        <small class="font-weight-light">AnimesXD</small>
-                                   </a>
-                              </div>
-                         </div>
-                    </div>
-               </div>
-          </div>
-     </div>
-     <div class="container text-white my-4 text-center">
+						</div>
+					</div>
+					<div class="container text-white my-4">
+						<div class="container mb-2">
+							<div class="row border-bottom border-white pb-3">
+								<p class="h6 text-center col-12 small pb-2">Parceiros Vip</p>
+								<div class="col-12 ">
+									<div class="row">
+										<div class="list-group list-group-flush w-100 text-center bg-dark">
+											<a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+												<small class="font-weight-light">Universe Projects</small>
+											</a>
+											<a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+												<small class="font-weight-light">Turbo Server</small>
+											</a>
+											<a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+												<small class="font-weight-light">Tecno Premium</small>
+											</a>
+											<a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+												<small class="font-weight-light">AniMania</small>
+											</a>
+											<a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+												<small class="font-weight-light">Baixar Filmes Mega</small></a>
+											<a href="#" class="list-group-item text-white bg-dark border-secondary m-0 py-1">
+												<small class="font-weight-light">AnimesXD</small>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container text-white my-4 text-center">
 
-          <div id="histats_counter"></div>
-          <script type="text/javascript">var _Hasync= _Hasync|| [];
-               _Hasync.push(['Histats.start', '1,3997907,4,10,200,40,00011101']);
-               _Hasync.push(['Histats.fasi', '1']);
-               _Hasync.push(['Histats.track_hits', '']);
-               _Hasync.push(['Histats.framed_page', '']);
-               (function() {
-                    var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
-                    hs.src = ('//s10.histats.com/js15_as.js');
-                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
-               })();</script>
-          <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3997907&101" alt="" border="0"></a></noscript>
+						<div id="histats_counter"></div>
+						<script type="text/javascript">var _Hasync= _Hasync|| [];
+							_Hasync.push(['Histats.start', '1,3997907,4,10,200,40,00011101']);
+							_Hasync.push(['Histats.fasi', '1']);
+							_Hasync.push(['Histats.track_hits', '']);
+							_Hasync.push(['Histats.framed_page', '']);
+							(function() {
+								var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+								hs.src = ('//s10.histats.com/js15_as.js');
+								(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+							})();</script>
+						<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3997907&101" alt="" border="0"></a></noscript>
 
-     </div>
+					</div>
 
-     <div class="container text-white my-4">
-		<div class="fb-comments" data-href="<?php echo "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]" ?>" data-numposts="30" data-colorscheme="dark" data-mobile="auto"></div>
-     </div>
-</div>
+					<div class="container text-white my-4">
+						<div class="fb-comments" data-href="<?php echo "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]" ?>" data-numposts="30" data-colorscheme="dark" data-mobile="auto"></div>
+					</div>
+				</div>
 			</div>
 		</div>
 
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.2/owl.carousel.min.js"></script>
+
 		<script>
 			$(document).ready(function () {
 
@@ -734,5 +1741,6 @@
 
 			});
 		</script> 
+
 
 	</body></html>
